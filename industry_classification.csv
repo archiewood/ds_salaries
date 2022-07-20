@@ -1,0 +1,177 @@
+industry_clean,industry_group
+amazon,Big Tech (FAANG)
+faang,Big Tech (FAANG)
+faang tech,Big Tech (FAANG)
+fb,Big Tech (FAANG)
+google,Big Tech (FAANG)
+youtube,Big Tech (FAANG)
+academia,Education
+company academia public health,Education
+higher education,Education
+small education nonprofit,Education
+university,Education
+bank,Finance
+banking,Finance
+bulge bracket banks,Finance
+crypto,Finance
+finance,Finance
+finance   banking,Finance
+finance investment,Finance
+financial,Finance
+financial services,Finance
+financial services & banking,Finance
+health insurance,Finance
+high frequency trading,Finance
+insurance,Finance
+large bank,Finance
+major financial services company,Finance
+pe vc,Finance
+secured loan financing,Finance
+defense,Government
+federal government,Government
+fedgov,Government
+government contract,Government
+national security,Government
+public federal subcontractor,Government
+big pharma,Healthcare
+clinical research organization,Healthcare
+company   healthcare segment of f100,Healthcare
+digital healthcare,Healthcare
+health,Healthcare
+health tech,Healthcare
+health tech startup,Healthcare
+health wellness,Healthcare
+healthcare,Healthcare
+healthcare ai startup,Healthcare
+healthtech reinforcement learning,Healthcare
+large healthcare not-for-profit,Healthcare
+medtech,Healthcare
+pharmaceutical distribution,Healthcare
+small pharmaceutical,Healthcare
+top 10 pharmaceutical company,Healthcare
+beverage cpg,Manufacturing
+biomanufacturing,Manufacturing
+brewery,Manufacturing
+caterpillar,Manufacturing
+consumer goods,Manufacturing
+consumer packaged goods,Manufacturing
+cpg,Manufacturing
+cpg financial planning & analysis,Manufacturing
+f500 non tech,Manufacturing
+fortune 100,Manufacturing
+large automaker,Manufacturing
+large non-tech & non-finance company,Manufacturing
+mid-size non tech,Manufacturing
+semiconductors,Manufacturing
+steel,Manufacturing
+wind turbine manufacturer,Manufacturing
+education bsc in comp sci,Not an industry
+education mba ms analytics,Not an industry
+energy,"Oil, gas & mining"
+oil and gas,"Oil, gas & mining"
+oil gas,"Oil, gas & mining"
+tech o&g mining iot other pre-ipo spinoff,"Oil, gas & mining"
+company content,Other industry
+electronic components distribution,Other industry
+entertainment,Other industry
+f500 utility company,Other industry
+fast food lul,Other industry
+games,Other industry
+internet media,Other industry
+media,Other industry
+mid size real estate company,Other industry
+multifamily housing,Other industry
+nonprofit,Other industry
+small company very niche segment in the entertainment space,Other industry
+utility,Other industry
+waste management,Other industry
+large cable communications company,Other industry
+telecom,Other industry
+accounting   tax consulting,Professional services
+ad tech,Professional services
+agency,Professional services
+big 4,Professional services
+consulting,Professional services
+consulting basically,Professional services
+consulting mbb,Professional services
+consulting saas,Professional services
+data science services,Professional services
+digital advertising,Professional services
+financial consulting,Professional services
+forecasting for external clients,Professional services
+government consulting,Professional services
+healthcare consulting,Professional services
+legal,Professional services
+market research,Professional services
+marketing,Professional services
+marketing agency ~500 people,Professional services
+marketing insights and analytics,Professional services
+media analytics,Professional services
+media intelligence,Professional services
+portofolio analytics and indices,Professional services
+small consultancy,Professional services
+technology consulting,Professional services
+transportation planning,Professional services
+big box retail ecommerce division,Retail & e-commerce
+e-commerce,Retail & e-commerce
+retail,Retail & e-commerce
+retail - fashion,Retail & e-commerce
+retail marketing,Retail & e-commerce
+the home depot retail,Retail & e-commerce
+-  tech,Tech
+500-employee saas company,Tech
+american well-known  tech firm,Tech
+big n,Tech
+big tech company,Tech
+biotech startup,Tech
+cloud saas,Tech
+company    tech start up,Tech
+company  analytics software,Tech
+company publicly traded tech probably a tier below faang,Tech
+company sales and marketing for a big tech company,Tech
+cybersecurity,Tech
+digital company,Tech
+ecommerce software,Tech
+energy startup ~80 employees,Tech
+faang tech unicorn,Tech
+fin tech,Tech
+financial technology,Tech
+fintech,Tech
+fintech startup,Tech
+fintech unicorn,Tech
+fortune 50 - global tech company  hr analytics,Tech
+generic tech startup,Tech
+internet web tech,Tech
+large corporation in biotech agrotech,Tech
+large corporation in tech,Tech
+large corporation in tech not faang,Tech
+large public tech company,Tech
+large tech company,Tech
+late stage tech startup,Tech
+legal tech,Tech
+major public tech company,Tech
+mid-size tech company,Tech
+mid-sized startup,Tech
+saas,Tech
+sas saas startup,Tech
+self-driving car,Tech
+small startup fintech,Tech
+software,Tech
+software startup,Tech
+startup,Tech
+startup   internet,Tech
+startup tech,Tech
+tech,Tech
+tech (already easy enough to identify me and anyone that knows typical pay structures in the bay can guess the company,Tech
+tech company,Tech
+tech not faang,Tech
+tech startup,Tech
+technology,Tech
+very early-stage startup,Tech
+b2b logistics,Transport & Logistics
+dsd logistics,Transport & Logistics
+large delivery logistics app,Transport & Logistics
+logistics,Transport & Logistics
+logistics & supply chain,Transport & Logistics
+travel,Transport & Logistics
+travel technology,Transport & Logistics

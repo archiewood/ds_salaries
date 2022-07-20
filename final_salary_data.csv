@@ -1,0 +1,259 @@
+date,title,tenure,location,salary,industry,education,tenure_clean,us_region,salary_usd,industry_group,education_level
+2021,data science manager,2 years,fully remote,$190k,ad tech,"phd, computer science",2.0,Non-US,190000.0,Professional services,PhD
+2021,quantitative analyst,< 6 months,lcol midwest city,$75k,financial services,bs mathematics/ms applied statistics,0.5,Midwest,75000.0,Finance,Master's
+2021,senior predictive analyst,5 years in current role,"southern, usa","$93,000",financial consulting,bs applied mathematics; minior in applied statistics,5.0,Unspecified,93000.0,Professional services,Master's
+2021,senior data scientist,3 years,lcol midwest,"115,000",financial services,"ms, mba",3.0,Midwest,115000.0,Finance,Master's
+2021,data scientist,1.5 years,washington dc,"$88,000",national security,"m.s. in data science, b.s. political science",1.5,Northeast,88000.0,Government,Master's
+2021,analytics manager,1y3m,atlanta,$132k,"big box retail, ecommerce division","ba communications, bs psychology",13.0,Southeast,132000.0,Retail & e-commerce,Bachelor's
+2021,data scientist nlp,"0, starting next year",socal,"$120,000",healthcare consulting,ms,,West coast,120000.0,Professional services,Master's
+2021,senior data scientist,< 6 months,west coast,"$160,000",games,phd,0.5,West coast,160000.0,Other industry,PhD
+2021,junior data scientist,2.75 years,karachi pakistan,"120,00 pkr/month",data science services,"b.sc in math, minor in comp sci from an american uni",2.75,Non-US,,Professional services,Master's
+2021,data analyst,starting in summer,"washington, dc area","$96,000",financial technology,b.s. economics,,Northeast,96000.0,Tech,Bachelor's
+2021,data scientist,3 years at current company,austria,"42,000€ a year",consulting basically,bsc. in comp sci,3.0,Unspecified,43029.0,Professional services,Bachelor's
+2021,data scientist,,d.c. area,gs-11,federal government,"m.s. applied stats, b.s. math",,Northeast,,Government,Master's
+2021,founder programmer,5 years,"oregon, usa.",$10k,software,msc in computational linguistics.,5.0,Unspecified,10000.0,Tech,Master's
+2021,data scientist,~1 year,silicon valley,"$170,000 base salary",mid-sized startup,ms in statistics,1.0,West coast,170000.0,Tech,Master's
+2021,senior analytics engineer,2 months,"london, uk","£70,000",consumer goods,ms stats,0.16666666666666666,Non-US,84070.90020280647,Manufacturing,Master's
+2021,data analytics & reporting lead,3 months,"remote, dallas tx","$110,000",healthcare,"ms data analytics, ms healthcare analytics, doctoral student - graduation 2023",0.25,Southwest,110000.0,Healthcare,Master's
+2021,junior data scientist,2 months,"glasgow, uk","£27,000",fintech startup,"meng mechanical engineering, msc machine learning",0.16666666666666666,Non-US,32427.347221082495,Tech,Master's
+2021,head of data scientist and machine learning engineering,1 yrs,south,$240k,finance,msc ds,1.0,Non-US,240000.0,Finance,Master's
+2021,data scientist,3 years,"office  bengaluru, india",rupees 21 lakhs per annum,brewery,b tech mechanical engineering,3.0,Non-US,26269.87228015336,Manufacturing,High School
+2021,senor data analyst,new to the company,bentonville ar,$110k usd,mid size real estate company,bachelors in analytics studying masters in analytics,,Midwest,110000.0,Other industry,Master's
+2021,senior data scientist,5 years,"atlanta, us",$120k,retail/marketing,"stem undergrad, ms business analytics",5.0,Southeast,120000.0,Retail & e-commerce,Master's
+2021,senior data scientist,3yr,nyc,"$114,000",healthcare,phd bioinformatics,3.0,Northeast,114000.0,Healthcare,PhD
+2021,senior analytics analyst, 2.5 yrs,southwest us,"~$95k base , ~$15k bonus",financial services & banking,bs in applied math & bba economics,2.5,Unspecified,95000.0,Finance,Master's
+2021,director data science,4 years,fully remote,"$147,000",digital healthcare,"bs, biology; ms, wildlife and fisheries sciences",4.0,Non-US,147000.0,Healthcare,Master's
+2021,machine learningops engineer,just starting,"berlin, germany",´€70k,steel industry,"almost msc, [ba economics]",,Non-US,71715.0,Manufacturing,Master's
+2021,data scientist,2.5 years in current role,seattle,$203k,faang/tech,masters economics,2.5,West coast,203000.0,Big Tech (FAANG),Master's
+2021,analytics solutions architecture lead,3 yrs,major metro area,135k,agency,bachelors - non computer science,3.0,Non-US,135000.0,Professional services,Bachelor's
+2021,associate data scientist,< 1 year,chicago,"$96,000","large corporation in tech, not faang",ms data science,1.0,Midwest,96000.0,Tech,Master's
+2021,product owner will transition into associate data scientist within a year,1 year 3 months,nj / remote,$100k,big pharma,finish my ms in data science july 2022,0.08333333333333333,Northeast,100000.0,Healthcare,Master's
+2021,data analyst and project manager,"3 years total, .5 with current company",twin cities,$80k,small education nonprofit,bs in me from ivy,3.0,Non-US,80000.0,Education,Bachelor's
+2021,machine learning engineer,2 months,"atlanta, ga us","80k, renegotiate after probationary period.",cybersecurity,"bs mathematics cs minor, ms computational stats in progress.",0.16666666666666666,Southeast,80000.0,Tech,Master's
+2021,data specialist,1 yr,medium col,$86k,biomanufacturing,"b.s. bioengineering, half way done online masters of analytics",1.0,Non-US,86000.0,Manufacturing,Master's
+2021,research associate,4 months,toronto,63k cad,marketing insights and analytics,"master of spatial analysis, hba in city studies, applied stats and gis",0.3333333333333333,Non-US,48660.660434258134,Professional services,Master's
+2021,data scientist,1.7 years,sf bay area,$130k,biotech startup,ms statistics,1.7,West coast,130000.0,Tech,Master's
+2021,senior data analyst,1 month,san francisco,"$140,000",self-driving car,,0.08333333333333333,West coast,140000.0,Tech,
+2021,senior data scientist, about 5 years,remote,150k base.,company: sales and marketing for a big tech company.,ms,,Non-US,150000.0,Tech,Master's
+2021,senior product scientist,8 months,"austin, tx","$120,000",tech,bs business admin undergrad + 3 month ds immersive bootcamp,0.6666666666666666,Southwest,120000.0,Tech,Bachelor's
+2021,data specialist,~.5 year,chicago,"$80,000",e-commerce,bs stats,0.5,Midwest,80000.0,Retail & e-commerce,Bachelor's
+2021,data analyst, < 1 year,"large city in midwestern us, but temp full remote","$65,000",health tech,"b.sc. and m.sc. in an unrelated stem field, post-bach  in applied math",1.0,West coast,65000.0,Healthcare,Master's
+2020,senior data scientist,1 years,tennessee usa,"104,000",financial,masters in mathematics,1.0,Southeast,104000.0,Finance,Master's
+2020,data science consultant,2 years,washington dc,"$98,000",fedgov,ms/mba,2.0,Northeast,98000.0,Government,Master's
+2020,softwate engineer,1 and half years,lebanon,"15,000",digital company,bachelor degree,1.0,Non-US,15000.0,Tech,Bachelor's
+2020,data scientist,~1 year,nyc,"$100,000",pe/vc,ms,1.0,Northeast,100000.0,Finance,Master's
+2020,crm analyst,2 years.,ireland.,"€48,000.",retail - fashion.,"bsc maths, msc computer science.",2.0,Non-US,49176.0,Retail & e-commerce,Master's
+2020,principal data scientist,6 months,sf bay,"185,000",software startup,phd,0.5,West coast,185000.0,Tech,PhD
+2020,senior engineering lead,8years,usa/canada,$155k,oil and gas,bachelors in engineering,8.0,Non-US,155000.0,"Oil, gas & mining",Bachelor's
+2020,data scientist,1.5 years,kansas city metro,"$89,300",large tech company,ms applied statistics,1.5,Midwest,89300.0,Tech,Master's
+2020,staff data scientist,2 years,d.c. metro,"$120,000",defense,m.s in geoinformatics; working on phd,2.0,Northeast,120000.0,Government,PhD
+2020,modeling analyst,6mo,dc,"$70,000",insurance,bs in management  from a top undergrad business school,0.5,Northeast,70000.0,Finance,Master's
+2020,senior data engineer,6 months,remote/west coast,"$140,000",consulting,ms/mba - ivy league,0.5,West coast,140000.0,Professional services,Master's
+2020,associate finance manager data science,11 months,new jersey,"93,000",cpg/financial planning & analysis,ms in data science,0.9166666666666666,Northeast,93000.0,Manufacturing,Master's
+2020,data scientist intern,1 year,brussels,1400,small pharmaceutical,master,1.0,Unspecified,,Healthcare,Master's
+2020,insights consultant,2 years,new jersey. united states of america.,"$150,000 + ~7% bonus",market research,masters,2.0,Northeast,150000.0,Professional services,Master's
+2020,lead data scientist,3 yrs,chicago,"120,000",small consultancy,"ba, ma",3.0,Midwest,120000.0,Professional services,Master's
+2020,data scientist, ~ 6 months,"cambridge, ma","$118,000",company /  tech start up,ba from an lac in math,0.5,Non-US,118000.0,Tech,Master's
+2020,data scientist,"almost 2 years in this position, 1 year as a data analyst at a previous company",nyc,110k,company/  content,masters,,Northeast,110000.0,,Master's
+2020,machine learning engineer,1 year,"minsk, belarus",33k,e-commerce,ms in applied maths,1.0,Unspecified,33000.0,Retail & e-commerce,Master's
+2020,senior quantitative modeling analyst,2 years,dc,"$125,000",banking,bs in computer science,2.0,Northeast,125000.0,Finance,Bachelor's
+2020,senior principal data scientist,2.5 years,upper midwest,"$160,000",healthcare,msc in palaeoeconomics,2.5,Midwest,160000.0,Healthcare,Master's
+2020,data analyst,2yrs,denver,"$67,000",travel,bachelors,2.0,West coast,67000.0,Transport & Logistics,Bachelor's
+2020,data scientist,< 6 months,germany,55k€,e-commerce,msc information system,0.5,Non-US,56347.5,Retail & e-commerce,Master's
+2019,machine learning engineer,1year,seattle,$295k,saas,ms,1.0,West coast,295000.0,Tech,Master's
+2019,manager data analytics science,1yr,pennsylvania lcol area,"$160,000",utility,bs risk analytics | ms data science,1.0,Northeast,160000.0,Other industry,Master's
+2019,data engineer,1.5 years,down under,$119k,media,bachelors,1.5,Non-US,119000.0,Other industry,Bachelor's
+2019,data analyst,1.5 yeaers,atlanta,$60k,the home depot/retail,"bs: accounting, graduate 2020",1.5,Southeast,60000.0,Retail & e-commerce,Bachelor's
+2019,marketing manager,2 years,socal,$128k,healthcare,"bs, business",2.0,West coast,128000.0,Healthcare,Bachelor's
+2019,data analyst,10 months,germany,"$64,5k",medtech,econ phd,0.8333333333333334,Non-US,64500.0,Healthcare,PhD
+2019,data analyst,start date set in september,nj,"$84,000",consumer packaged goods,2 b.s. data science & applied statistics,,Northeast,84000.0,Manufacturing,Bachelor's
+2021,senior data scientist lead,8 years,st louis,"$137,500",large corporation in biotech/agrotech,phd,8.0,Midwest,137500.0,Tech,PhD
+2021,data scientist,"4 month internship, 4 months current role","vancouver, bc",$90k,mid-size non tech,"phd, physics",0.3333333333333333,Non-US,90000.0,Manufacturing,PhD
+2021,senior staff data scientist,3 years.,"was in the bay area, now fully remote in a mcol area","$240,000","tech, not faang","ms in mathematics, dropped out of a phd program after masters",3.0,West coast,240000.0,Tech,PhD
+2021,data scientist,just accepted,illinois,"100k, 14% bonus",caterpillar,"marketing undergrad, mba, self taught analytics and stats",,Midwest,100000.0,Manufacturing,Master's
+2021,graduate trainee data scientist,2 months,"buckinghamshire , uk","£27,000",waste management,bsc applied mathematics,0.16666666666666666,Non-US,32427.347221082495,Other industry,Master's
+2021,head of machine learning,< 1 year,germany,"$120,000",startup,phd,1.0,Non-US,120000.0,Tech,PhD
+2021,process data scientist,7 months,sf bay area,$150k,semiconductors,cheme phd,0.5833333333333334,West coast,150000.0,Manufacturing,PhD
+2021,decision scientist,8 months,office  denver,"$100,000",late stage tech startup,ma economics,0.6666666666666666,West coast,100000.0,Tech,Master's
+2021,ai engineer,3 months,"london, uk","£50,000",consulting,"msc software development, beng mechanical engineering",0.25,Non-US,60050.643002004625,Professional services,Master's
+2021,data scientist soon to be machine learning engineer,1 year,,"$80,000 -> tbd",health tech startup,"bs computational data science, minor in statistics",1.0,Non-US,80000.0,Healthcare,Bachelor's
+2021,senior product analyst,3.5 years,"bay area, ca",$180k,youtube,level: l5,3.5,West coast,180000.0,Big Tech (FAANG),High School
+2021,data science manager,> 5 years,hcol,~250k,large public tech company,"phd, math",5.0,Non-US,250000.0,Tech,PhD
+2021,senior data analyst,5 mo. 4.5 yrs total,company: pnw. me: ohio,110k,sas saas startup,bachelors in mathematics,0.45,Midwest,110000.0,Tech,Master's
+2021,senior data scientist, 3 years,"london, uk but fully remote","$92,000 approximately",logistics,bsc mathematics,3.0,Non-US,92000.0,Transport & Logistics,Master's
+2021,incoming data analyst developer,"4 month internship / training, then na",fully remote,$75k,accounting / tax consulting,finishing msc,0.3333333333333333,Non-US,75000.0,Professional services,Master's
+2021,director of data science,1 year,minnesota,"$185,000",health/wellness,phd,1.0,Midwest,185000.0,Healthcare,PhD
+2021,data analyst, starting shortly,"florida, usa","$125,000",finance/investment,bs/ms in industrial engineering,,Southeast,125000.0,Finance,Master's
+2021,data scientist, ~2y,bay area,$160k,faang,bs+ms,2.0,West coast,160000.0,Big Tech (FAANG),Master's
+2021,data scientist,< 1 year,lcol,$120k,big n,"stem undergrad, analytics masters",1.0,Non-US,120000.0,Tech,Master's
+2021,quantitative modeling data science,4ish years,pittsburgh pa,$115k,finance / banking,ms applied math,4.0,Northeast,115000.0,Finance,Master's
+2021,senior machine learning engineer, 1 year,"office in sf, i work remote",200k,"company: publicly traded tech, probably a tier below faang",ms statistics,1.0,West coast,200000.0,Tech,Master's
+2021,senior data scientist,< 1 year at this position. held 3 ds positions at 3 companies in 2 years.,nyc / remote,205k,tech,ba poli sci,1.0,Northeast,205000.0,Tech,Bachelor's
+2021,lead data scientist,1.5 years,"são paulo, brazil",$55k usd,tech/o&g/mining/iot/other pre-ipo spinoff .,"bs geological engineering, ms mechanical engineering",1.5,Non-US,55000.0,"Oil, gas & mining",Master's
+2021,analytics engineering manager,"1 year current role; 6 prior years along data analyst track, ending at sr data analyst","pacific northwest, usa",$150k,saas,bs economics; ba int’l studies,1.0,West coast,150000.0,Tech,Bachelor's
+2021,data scientist,4 years at company,montreal,95k$,oil and gas,bachelor in mechanical engineering,4.0,Non-US,95000.0,"Oil, gas & mining",Bachelor's
+2021,data scientist,2 years,sf/bay area,$187k + bonus,"startup, tech.",none.  i got in before the ds title was used in silicon valley.,2.0,West coast,187000.0,Tech,High School
+2021,senior data scientist applied scientist,offer,nyc,175k,e-commerce,"bs, ms in math/stats",,Northeast,175000.0,Retail & e-commerce,Master's
+2021,vp of data science,"6 years: 1 @ vp, 2 @ director, 2 @ manager, 1 @ data scientist",boston area. wfh optional. i go in 1-2 days/week.,"$200k base, $40k bonus target","marketing agency, ~500 people",phd in stem field. ba in physics.,6.0,Northeast,200000.0,Professional services,PhD
+2021,data analyst,accepting in a couple of days,"london, uk",50k gbp,fintech,bsc maths with stats,,Non-US,60050.643002004625,Tech,Master's
+2021,data scientist,3 years,midwest but i wfh,$88.5k,healthcare,"b.s. physics, working on m.s. computer science",3.0,Midwest,88500.0,Healthcare,Master's
+2021,solutions architect,6 months,wfh,"$160,000",consulting,"masters in business intelligence, undergrad in economics with a concentration in computer science",0.5,Non-US,160000.0,Professional services,Master's
+2021,ds quant,1.5 years,washington dc,$150k,finance,ms ds,1.5,Northeast,150000.0,Finance,Master's
+2021,staff swe machine learning,6 months,sf bay area,$300k,tech,phd,0.5,West coast,300000.0,Tech,PhD
+2021,product analyst,2 mo,"seattle, wa",$125k,fintech unicorn,,0.16666666666666666,West coast,125000.0,Tech,
+2021,date engineer,9 months,"manchester, uk","£44,000",finance,masters,0.75,Non-US,52844.565841764066,Finance,Master's
+2021,data analyst,1year +,singapore,"$40,320",bank,bsc finance & economy,1.0,Non-US,40320.0,Finance,Bachelor's
+2021,product data scientist,2 years,toronto,"$113,000 cad",fin tech,ba sociology,2.0,Non-US,87280.23220747888,Tech,Bachelor's
+2021,head of <program related to data science>,6 yoe in tech + 2 in a startup in a pseudo technical role,"upper midwest, usa, medium cost of living city",$150k,500-employee saas company,master's in computer science,6.0,Midwest,150000.0,Tech,Master's
+2021,data analyst,1yr,south carolina,$70k,secured loan financing,bs data science,1.0,Southeast,70000.0,Finance,Bachelor's
+2021,hpc systems engineer i build the stuff your science runs on i have been an infrastructure architect in past lives,less than a year,"ny-based, remote. i never actually go in.","$186,000",healthcare ai startup,college dropout,,Northeast,186000.0,Healthcare,High School
+2021,economist senior data scientist,3 months,"london, uk","£84,000",american well-known  tech firm,"msc economics, msc data science",0.25,Non-US,100885.08024336776,Tech,Master's
+2021,data science research assistant,2 months,north of spain,15k€,university,currently involved on a degree,0.16666666666666666,Non-US,15367.5,Education,High School
+2021,senior director,<1 year,remote,$250k,tech,phd in engineering,1.0,Non-US,250000.0,Tech,PhD
+2021,quantitative ux researcher,5 years,sf bay area/nyc,$160k,google,b.s. mathematics,5.0,Northeast,160000.0,Big Tech (FAANG),Master's
+2021,data scientist,3 years,london,"₤75,000",legal tech,msc,3.0,Non-US,75000.0,Tech,Master's
+2021,senior data scientist,-  2 years,"-  cambridge, u.k.",-  60k,-  tech,"-  phd physics, mphys",2.0,Non-US,60000.0,Tech,PhD
+2021,senior data scientist,4+ years,"houston, tx","$155,000",mid-size tech company,master's in applied statistics,4.0,Southwest,155000.0,Tech,Master's
+2021,senior data scientist,13+ years,sf bay area,base  225k,faang,ms in industrial engg,13.0,West coast,225000.0,Big Tech (FAANG),Master's
+2021,data analyst,5 months,"arlington, va","$110,000",public/federal subcontractor,bachelor's science quantitative finance,0.4166666666666667,Southeast,110000.0,Government,Bachelor's
+2021,data scientist consultant,11 months,dc,$104000,government consulting,ms in applied math,0.9166666666666666,Northeast,104000.0,Professional services,Master's
+2021,senior data scientist,3 months,new england area,$160k/year,saas,"bs. mech engineering, ms. computer science",0.25,Non-US,160000.0,Tech,Master's
+2021,data scientist ii,< 6 months,seattle,"$145,000",large corporation in tech,b.s.,0.5,West coast,145000.0,Tech,Bachelor's
+2021,data scientist,2 months,"ohio, usa","$110,000",technology,ms comp. sci.,0.16666666666666666,Midwest,110000.0,Tech,Master's
+2021,data scientist,2 yoe,lcol midwest town,$108k,telecom,"undergrad business, masters statistics",2.0,Midwest,108000.0,Other industry,Master's
+2021,manager data science, 3yrs,"lcol area , also now full remote.",$165k,f500 utility company,"bs risk analysis, ms data science",3.0,Non-US,165000.0,Other industry,Master's
+2021,data scientist,8 months,midwest,"$65,000",transportation planning,ba,0.6666666666666666,Midwest,65000.0,Professional services,Bachelor's
+2021,senior data scientist,5 yoe,"bay area, ca",$160k,faang,bachelors,5.0,West coast,160000.0,Big Tech (FAANG),Bachelor's
+2021,senior machine learning engineer,3mo,"sf, remote from canada","$175,000",tech startup,msc stats,0.25,West coast,175000.0,Tech,Master's
+2021,principal data scientist,3.5 years,arkansas/remote,$190k,consulting/saas,phd,3.5,Midwest,190000.0,Professional services,PhD
+2021,data scientist,~6 months,"hcol, us",125k base,healthcare,bachelors,0.5,Unspecified,125000.0,Healthcare,Bachelor's
+2021,senior applied scientist,5 years,sf bay area,$185k,major public tech company,bs/ms/phd in chemical engineering,5.0,West coast,185000.0,Tech,PhD
+2021,senior data scientist,0.5 years,"manhattan. wfh guaranteed, office optional forever at my company.","$130k base, 5%-20% bonus based on performance and company performance",crypto,"bs mathematics, bsm finance",0.5,Northeast,130000.0,Finance,Master's
+2021,data science manager,6 years starting as ds,"midwest, fully remote","~130,000",market research,"ba econ, ms analytics",6.0,Midwest,130000.0,Professional services,Master's
+2021,data scientist product analytics,2.5 years,chicago,$120k,tech,"ba in communication, almost done with an ms data science",2.5,Midwest,120000.0,Tech,Master's
+2021,senior data scientist,4 years,minneapolis,185k,tech,masters,4.0,Midwest,185000.0,Tech,Master's
+2021,director analytic strategy,<6 months,lcol city in southeast us,180k base,"f500, non tech",bs in economics,0.5,Unspecified,180000.0,Manufacturing,Bachelor's
+2021,director of data science,4 years,east coast city not nyc,"$220,000",energy,masters econ,4.0,Northeast,220000.0,"Oil, gas & mining",Master's
+2021,senior data scientist,6 months,"nyc, but working remotely",$125k,media analytics,msc data science,0.5,Northeast,125000.0,Professional services,Master's
+2021,data scientist,"2 years at this company, 9 years industry experience",sf bay area,"$178,000",company  analytics software,"ma, international relations",2.0,West coast,178000.0,Tech,Master's
+2021,data analyst,3.5 years,"richmond, va","$66,800",large bank,bba in computer information systems and i will complete an ms in data analytics engineering in fall of 2023,3.5,Southeast,66800.0,Finance,Master's
+2021,senior data analyst,3 yrs,hybrid in office and remote. 3 days in office 2 at home.,"$97,000",wind turbine manufacturer,bs aerospace engineering ms technology management. self taught in all ds things,3.0,Non-US,97000.0,Manufacturing,Master's
+2020,data scientist,3yrs,houston,"$140,000",oil and gas,masters in applied statistics,3.0,Unspecified,140000.0,"Oil, gas & mining",Master's
+2020,senior business analyst,2 months,pacific nw,"$120,000",faang,bs in completely unrelated field,0.16666666666666666,West coast,120000.0,Big Tech (FAANG),Bachelor's
+2020,senior data scientist lead,7 years,large midwestern city,"$135,000",large corporation in biotech/agrotech,phd,7.0,West coast,135000.0,Tech,PhD
+2020,data scientist,2 years,us mid-sized midwest city,74000,digital advertising,ms,2.0,Midwest,74000.0,Professional services,Master's
+2020,senior software engineer,<6 mo,hcol major tech hub,240k,fintech,b.s. stats tier 2 school,0.5,Non-US,240000.0,Tech,Bachelor's
+2020,data scientist,6 months,"arlington, va","$93,000",government contract,ba in mathematics,0.5,Southeast,93000.0,Government,Master's
+2020,data scientist,< 1 year,bay area,140k,faang/tech unicorn,master's financial eng,1.0,West coast,140000.0,Tech,Master's
+2020,data scientist,1 year,d.c.,"$85,000",defense,masters of science in data science,1.0,Northeast,85000.0,Government,Master's
+2020,informatics manager,1 year.,nyc/remote,160k,healthcare,phd,1.0,Northeast,160000.0,Healthcare,PhD
+2020,analytics manager,1.5 years in this role,chicago,$107k,travel technology,"ba in communication, halfway through an msds",1.5,Midwest,107000.0,Transport & Logistics,Master's
+2020,data science consultant,2 years,"london, uk","base  £65,000",large tech company,phd,2.0,Non-US,78065.835902606,Tech,PhD
+2020,data scientist,a little over 2 years,austria,~40k€,education: bsc in comp. sci.,prior experience: 6 month internship in ds,,Unspecified,40980.0,,High School
+2020,data scientist,6 months,west coast,"375,000",faang,masters,0.5,West coast,375000.0,Big Tech (FAANG),Master's
+2020,machine learning manager,starting in jan 2021,gta canada,$120k,fast food lul,msc in statistics,,Non-US,120000.0,Other industry,Master's
+2020,data scientist,1 year,the netherlands,~€40.0000,finance,technical msc,1.0,Non-US,,Finance,Master's
+2020,data scientist,1.5 years,dallas,91k,finance,b.s. economics  2019. minor in physics,1.5,Southwest,91000.0,Finance,Bachelor's
+2020,machine learning engineer,1yr,"copenhagen, denmark","480,000dkk",media intelligence,"msc software development, beng mechanical engineering",1.0,Non-US,66053.27136697606,Professional services,Master's
+2020,senior data scientist,"full-time 1.5 years, half year part-time before that",boston,"$98,000",major financial services company,ms in statistical practice,,Northeast,98000.0,Finance,Master's
+2020,lead data scientist,5+ years,nyc,"$185,000",media,ms stats,5.0,Northeast,185000.0,Other industry,Master's
+2020,senior data scientist,3.5 years,india,16lpa,consulting mbb,bachelors in engineering,3.5,Non-US,20015.14078487875,Professional services,Bachelor's
+2020,quantitative researcher,1 month,hcol west coast city,"$90,000",small startup fintech,"ms math, bs physics",0.08333333333333333,West coast,90000.0,Tech,Master's
+2020,machine learning data scientist,1 year,san francisco,"$140,000",large delivery/logistics app,2-year data science masters . economics ba.,1.0,West coast,140000.0,Transport & Logistics,Master's
+2020,senior data scientist,3 months into the new role,czech republic,$46k,healthcare,"bsc data science, msc quantitative finance",0.25,Non-US,46000.0,Healthcare,Master's
+2020,data scientist,6 months,midwest,125k,high frequency trading,bs pure math + engineering. pure math was a waste but made me look smart,0.5,Midwest,125000.0,Finance,Master's
+2020,senior data scientist,2.5 years,"san francisco bay area, california","$160,000",startup / internet,phd in theoretical physics,2.5,West coast,160000.0,Tech,PhD
+2020,data scientist,pre-start,remote,"$125,000",very early-stage startup,phd,,Non-US,125000.0,Tech,PhD
+2020,senior data analyst,3 years,seattle metro area,$130k,cloud saas,bs economics,3.0,West coast,130000.0,Tech,Bachelor's
+2020,senior data scientist,2.5 years,chicago,"96,000","large, non-tech & non-finance company","ms computer science, bs computer science",2.5,Midwest,96000.0,Manufacturing,Master's
+2020,data scientist,3 years,southeast us,"$108,500",fintech,masters in analytics,3.0,Unspecified,108500.0,Tech,Master's
+2020,data scientist,9 months,seattle,125k,startup,ba in hard science,0.75,West coast,125000.0,Tech,Bachelor's
+2020,senior data scientist,1 year,nyc,"$123,500",bulge bracket banks,master's in statistics and applied math,1.0,Northeast,123500.0,Finance,Master's
+2020,data scientist,3.5 years,baltimore area,"$87,000",higher education,masters,3.5,Northeast,87000.0,Education,Master's
+2020,analytics project manager,1 year,dallas,70k,electronic components distribution,bachelors in industrial engineering,1.0,Southwest,70000.0,Other industry,Bachelor's
+2020,lead analyst analytics,1 yr,west coast,"$119,000","education: mba, ms analytics","prior experience: 3 yrs post-mba as a sr analyst, 7 yrs pre-mba non-tech engineering roles",1.0,West coast,119000.0,,Master's
+2020,decision scientist,1 years,between the coasts,"105,000",saas,phd,1.0,Non-US,105000.0,Tech,PhD
+2020,data science manager,10+ years,east coast,170k,consulting,"masters to get the job, currently working on a ph.d.",10.0,Northeast,170000.0,Professional services,PhD
+2020,nlp engineer,<6mo,dmv,110k,health,ba in statistics,0.5,Northeast,110000.0,Healthcare,Bachelor's
+2020,data scientist,1 year,hcol east coast,120k,e-commerce,phd engineering,1.0,Northeast,120000.0,Retail & e-commerce,PhD
+2020,business analyst power bi developer,7 years,houston,"$90,000",financial consulting,high school,7.0,Unspecified,90000.0,Professional services,High School
+2020,senior healthcare analyst,tenure : just started,lcl northeast,"110,000",company/industry : healthcare segment of f100,education : mph and ms,,Northeast,110000.0,Healthcare,Master's
+2020,data scientist developer,1y,austria,37k,forecasting for external clients,msc data science with some msc ai courses sprinkled in. ba.,1.0,Unspecified,37000.0,Professional services,Master's
+2020,senior data scientist,5,east coast,$140k,tech,masters,5.0,Northeast,140000.0,Tech,Master's
+2020,quant trader,< 1 year,chicago,135k,financial services,"undergrad and masters in engineering, ms financial eng",1.0,Midwest,135000.0,Finance,Master's
+2020,senior credit analyst,starting next month,connecticut,"$110,000",large cable/communications company,bs in business administration,,Non-US,110000.0,Other industry,Bachelor's
+2020,data scientist analytics,1.5 years,bay area,160k,faang,"bs mechanical eng, mba",1.5,West coast,160000.0,Big Tech (FAANG),Master's
+2020,senior data analyst,"8 months, 3.5 years with the company",houston,60k,fintech,"self taught, no college degree",0.6666666666666666,Unspecified,60000.0,Tech,High School
+2020,data analyst,~1 month,sf,"$115,000",faang,bs in finance/ minor in it,0.08333333333333333,West coast,115000.0,Big Tech (FAANG),Bachelor's
+2019,data analyst,7 months,minneapolis,$65k,retail,bs in math and data science,0.5833333333333334,Midwest,65000.0,Retail & e-commerce,Master's
+2019,business intelligence engineer iii,3.5 years,seattle,"$110,000",amazon,"bachelors in psychology, masters in i/o psychology",3.5,West coast,110000.0,Big Tech (FAANG),Master's
+2019,data scientist,8 months,san francisco,135k,tech company,"bs in operation research, ms in data science",0.6666666666666666,West coast,135000.0,Tech,Master's
+2019,machine learning engineer,< 1 year,d.c.,"$170,000",defense,ms cs,1.0,Northeast,170000.0,Government,Master's
+2019,data scientist,1.5 years,los angeles,"$95,500",legal,"bs economics, finishing up masters in statistics.",1.5,West coast,95500.0,Professional services,Master's
+2019,data scientist,2 years,south florida,100k,financial technology,3x b.s.,2.0,Southeast,100000.0,Tech,Bachelor's
+2019,data scientist,< 1 year,greater philadelphia area,$110k,fintech startup,phd,1.0,Northeast,110000.0,Tech,PhD
+2019,data scientist,<1 year,greater philadelphia,110k,cpg,phd,1.0,Northeast,110000.0,Manufacturing,PhD
+2019,analytics manager,8 month as manager; 2 prior as analyst,midwest,"$101,000 usd",health insurance,"ba mathematics, ms data science",0.6666666666666666,Midwest,101000.0,Finance,Master's
+2019,senior data analyst,2 years,india,12 lakh annully/ 16.9k usd,marketing,bachleors,2.0,Non-US,15011.355588659064,Professional services,Bachelor's
+2019,senior data scientist,3.5 years,san francisco,$175k,tech,phd/ms/bs in engineering,3.5,West coast,175000.0,Tech,PhD
+2019,analytics manager,3 months,midwest,$103k,retail,masters in business analytics ; ba in accounting,0.25,Midwest,103000.0,Retail & e-commerce,Master's
+2019,it engineer applications etl development but i technically sound 50% of my time doing dba work as well, 2.5 years,"work remotely, but live in denver","76,700",large healthcare not-for-profit,bs in physics,2.5,West coast,76700.0,Healthcare,Bachelor's
+2019,data scientist,starting early 2020,d.c. area,"$105,000",financial,"ms in analytics, bs in math",,Northeast,105000.0,Finance,Master's
+2019,data scientist,4 months,"austin, tx","$116,500",fintech,mse,0.3333333333333333,Southwest,116500.0,Tech,Master's
+2019,senior data scientist,"4 years in industry, 7 in academia with ml / large data volume / optimization exerience",sf bay,$475k base,tech (already easy enough to identify me and anyone that knows typical pay structures in the bay can guess the company,phd in stem,4.0,West coast,475000.0,Tech,PhD
+2019,senior data scientist,1.5 years,remote: i live in the midwest and the salary is adjusted for location,"$127,000",tech,m.a. economics,1.5,Midwest,127000.0,Tech,Master's
+2019,data analyst,0.5 years,philippines,usd 15000 per year,portofolio analytics and indices,bs applied mathematics,0.5,Non-US,15000.0,Professional services,Master's
+2019,senior data scientist,1 month,remote,"$165,000",ad tech,"phd, cs",0.08333333333333333,Non-US,165000.0,Professional services,PhD
+2019,data scientist,2 years,netherlands,"59,000 eur",travel,mechanical engineering,2.0,Non-US,60445.5,Transport & Logistics,High School
+2019,algorithm developer mostly do modeling work for cyberphysical systems,3years,austin tx,$160000,oil/gas,"ms compe, bs cs",3.0,Southwest,160000.0,"Oil, gas & mining",Master's
+2019,biostatistician data scientist,6 months,miami/ft. lauderdale,52.5k,clinical research organization,b.s. statistics,0.5,Southeast,52500.0,Healthcare,Bachelor's
+2019,data scientist,2yrs,houston,"$136,000",oil and gas,masters in applied statistics,2.0,Unspecified,136000.0,"Oil, gas & mining",Master's
+2019,data scientist,1 year,midwest,"83,000",fortune 100,ms statistics,1.0,Midwest,83000.0,Manufacturing,Master's
+2019,data scientist,1.5 years,bay area,$155k,fb,phd in engineering,1.5,West coast,155000.0,Big Tech (FAANG),PhD
+2019,data scientist,2.5 yrs,"irving, tx",130k,entertainment,"msc psychology, msc data science",2.5,Southwest,130000.0,Other industry,Master's
+2019,data scientist,< 1 yr,nyc,165k,"healthtech, reinforcement learning",bachelor's,1.0,Northeast,165000.0,Healthcare,Bachelor's
+2019,senior data scientist,been here 1 month,la,160k,tech,bs engineering/ ms in ds,,West coast,160000.0,Tech,Master's
+2019,data scientist,"3 months in current role, 2 years as data analyst",st. louis,"~$95,000",healthcare,masters,0.25,Midwest,95000.0,Healthcare,Master's
+2019,data scientist,starting spring 2020,seattle,"118,000",big tech company,"bs in cs, data science. completing ms in cs",,West coast,118000.0,Tech,Master's
+2019,senior business intelligence analyst,4 months,riverside county,"$88,000",beverage/cpg,"bs pure mathematics, ms applied mathematics",0.3333333333333333,Non-US,88000.0,Manufacturing,Master's
+2019,senior data scientist,2.5,denver metro,"$151,000",internet/web tech,ms,2.5,West coast,151000.0,Tech,Master's
+2019,data scientist,1.5 years,san francisco,187k,fb,phd,1.5,West coast,187000.0,Big Tech (FAANG),PhD
+2019,director of data science,"6 months at current company, 6.5 years post phd experience","houston, tx",200k,"small company, very niche segment in the entertainment space",phd in engineering,0.5,Southwest,200000.0,Other industry,PhD
+2019,data scientist, 1.5 yrs,chicago,$110k,tech startup,phd,1.5,Midwest,110000.0,Tech,PhD
+2019,junior data scientist,1.25 years,central europe,$800-900/mo,big 4,"bs in finance, finishing msc in financial engineering",1.25,Non-US,10200.0,Professional services,Master's
+2019,director,** 5 years,** san francisco,** 185k,** financial services,** masters,5.0,West coast,185000.0,Finance,Master's
+2019,data analyst ii,3 years,dallas,"$85,000",pharmaceutical distribution,something worse than a liberal arts degree,3.0,Southwest,85000.0,Healthcare,High School
+2019,data scientist,just started,nyc,175k,generic tech startup,ms,,Northeast,175000.0,Tech,Master's
+2019,director data science,~5 years,nyc,$230k,tech,phd,5.0,Northeast,230000.0,Tech,PhD
+2019,data analyst,13 months,sacramento,"~$54,000",academia,b.s.,1.0833333333333333,West coast,54000.0,Education,Bachelor's
+2019,data analytics manager,"4mo as manager, 11mo as data analyst",sf bay area,"$105,000","energy startup, ~80 employees.","ba from canadian university, 6 month ds bootcamp.",0.3333333333333333,West coast,105000.0,Tech,Bachelor's
+2019,data scientist people analytics human capital,4 months,greater nyc,"$145,000",fortune 50 - global tech company/ hr analytics,,0.3333333333333333,Northeast,145000.0,Tech,
+2019,senior data scientist,6 years,large midwestern city,"$121,000",large corporation in biotech/agrotech,phd,6.0,West coast,121000.0,Tech,PhD
+2019,business data analyst,1.5 years,virginia,"$51,000",dsd logistics,ma,1.5,Southeast,51000.0,Transport & Logistics,Master's
+2019,senior analytics consultant,2+yrs,canada,cad 80-85k,consulting,economics ba,2.0,Non-US,63722.29342581423,Professional services,Bachelor's
+2019,data scientist,2 years,north carolina,$100k,healthcare,ms,2.0,Southeast,100000.0,Healthcare,Master's
+2019,head scientist,6 months,sf bay area,$120k,tech startup,phd,0.5,West coast,120000.0,Tech,PhD
+2019,data scientist i,1 year,east coast city,$95k,nonprofit,ms business analytics,1.0,Northeast,95000.0,Other industry,Master's
+2019,data analyst,1 year,chicago,$60k,marketing,bachelors in mech eng from an ivy,1.0,Midwest,60000.0,Professional services,Bachelor's
+2019,analytics manager,1 year,seattle,$110k,tech,math undergrad degree,1.0,West coast,110000.0,Tech,Master's
+2019,data scientist, 1 year,"bay area, ca","$450,000",internet media,berkeley physics phd,1.0,West coast,450000.0,Other industry,PhD
+2019,reporting analyst,2 yr,chattanooga tn,"~$58,000",insurance,"b.s. , just started ms analytics",2.0,Southeast,58000.0,Finance,Master's
+2019,senior data scientist,1.5 years,bay area,$180k,tech,ba economics,1.5,West coast,180000.0,Tech,Bachelor's
+2019,senior analyst, 6mo,seattle,85k,company: academia/public health,phd,0.5,West coast,85000.0,Education,PhD
+2019,product analyst,years of experience: 7,sf/bay area,base  $170k,tech,phd,,West coast,170000.0,Tech,PhD
+2019,data scientist,just started in october 2019,sf bay area,$120k,tech,ms,,West coast,120000.0,Tech,Master's
+2019,data scientist,1 year,south florida,80k,b2b logistics,ms econ in usa,1.0,Southeast,80000.0,Transport & Logistics,Master's
+2019,senior consultant data scientist,1 year,nova/dc,"$115,000",technology consulting,"b.s, mechanical engineering",1.0,Northeast,115000.0,Professional services,Bachelor's
+2019,research investigator,1.2 years,greater philly area,"117,000",top 10 pharmaceutical company,"ph.d. bioinformatics, bs computer science",1.2,Northeast,117000.0,Healthcare,PhD
+2019,bi analyst,~1 years,chicago,48k,logistics & supply chain,bs,1.0,Midwest,48000.0,Transport & Logistics,Bachelor's
+2019,data scientist,1 year,nyc,80k,fintech,ba econ,1.0,Northeast,80000.0,Tech,Bachelor's
+2019,researcher,~5 years,nyc,$200k,tech,master's,5.0,Northeast,200000.0,Tech,Master's
+2019,lead data engineer,< 1yr,toronto,130k,banking,some college,1.0,Non-US,130000.0,Finance,High School
+2019,business analyst i,6 months,chicago,"$59,000",large tech company,"ba , self-taught sql/python",0.5,Midwest,59000.0,Tech,Bachelor's
+2019,senior data scientist,~1 year,washington dc,121k,finance,phd,1.0,Northeast,121000.0,Finance,PhD
+2019,data analyst,2.5 years,"austin, tx","$96,000",ecommerce software,"liberal arts master's degree, also a night bootcamp",2.5,Southwest,96000.0,Tech,Master's
+2019,data scientist,4 years,boonies,"100,400",finance,masters in statistics,4.0,Non-US,100400.0,Finance,Master's
+2019,data scientist,haven't started yet,"austin, tx",$65k,large automaker,b.s. comp sci,,Southwest,65000.0,Manufacturing,Bachelor's
+2019,marketing coordinator,~5 years,ohio,$30k,multifamily housing,bfa ballet and bs political science,5.0,Midwest,30000.0,Other industry,Bachelor's
+2019,senior data scientist,8 months,denver,"$130,000",,phd,0.6666666666666666,West coast,130000.0,,PhD
+2019,senior systems analyst,"about 6 months full-time, before that was part-time as i finished my ms",boston,95k,finance,"undergrad math, ms applied statistics",0.5,Northeast,95000.0,Finance,Master's
