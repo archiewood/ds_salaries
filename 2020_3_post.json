@@ -1,0 +1,3050 @@
+{
+    "account": null,
+    "authorFlair": {
+        "t5_2sptq": {
+            "pntbttrnjlly": null,
+            "warwinkaten": null,
+            "jwod42": null,
+            "veeeerain": null,
+            "Noniax": null,
+            "plz_acceptme": null,
+            "Key-Concept-3255": null,
+            "contactstaff": null,
+            "Clicketrie": null,
+            "[deleted]": null,
+            "AngryDuckling1": null,
+            "bigno53": null,
+            "FIREstarterartichoke": null,
+            "thomasahle": null,
+            "Louis-Chiaki": null,
+            "adamazo": null,
+            "USBayernChelseaLCFC": null,
+            "KT421": null,
+            "martibang88": null,
+            "ColinRobinsonEnergy": null,
+            "avangard_2225": null,
+            "linguini57": null,
+            "asmolins": null,
+            "OlympiaPearl": null,
+            "Omega037": {
+                "text": "PhD | Sr Data Scientist Lead | Biotech",
+                "richtext": [],
+                "type": "text",
+                "textColor": "dark",
+                "backgroundColor": "",
+                "templateId": null
+            }
+        }
+    },
+    "commentLists": {
+        "t3_klvb55": {
+            "head": {
+                "id": "t1_ghe6iex",
+                "type": "comment"
+            },
+            "tail": {
+                "id": "moreComments-t1_gj6u8le",
+                "type": "moreComments"
+            }
+        }
+    },
+    "comments": {
+        "t1_ghe6iex": {
+            "author": "pntbttrnjlly",
+            "authorId": "t2_1up9uam2",
+            "collapsed": false,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": null,
+            "created": 1609251648.0,
+            "depth": 0,
+            "deletedBy": null,
+            "distinguishType": null,
+            "editedAt": null,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_ghe6iex",
+            "isAdmin": false,
+            "isDeleted": false,
+            "isGildable": true,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "t1_ghn0up0",
+                "type": "comment"
+            },
+            "parentId": null,
+            "permalink": "/r/datascience/comments/klvb55/official_2020_end_of_year_salary_sharing_thread/ghe6iex/",
+            "prev": null,
+            "postAuthor": null,
+            "postId": "t3_klvb55",
+            "postTitle": null,
+            "score": 86,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Title: Data Scientist",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            6
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Tenure length: 3yrs",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            14
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Location: Houston",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            9
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Salary: $140,000",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            7
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Company/Industry: Oil and Gas",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            17
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Education: Masters in Applied Statistics",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            10
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Prior Experience: 2yrs of actuarial experience",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            17
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Relocation/Signing Bonus: $15,000 signing bonus",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            25
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Stock and/or recurring bonuses: 15-30% bonus  (no bonus this year of course due to Covid)",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            31
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Total comp: $140,000",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            11
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                }
+                            ],
+                            "e": "list",
+                            "o": false
+                        },
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "I'm about to accept a new job that will be include a nice paycut (125K) just to get out of O&G.  The industry is on a downturn and I think now is a good time move on.  The premium pay is no longer worth the instability."
+                                }
+                            ],
+                            "e": "par"
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            },
+            "profileImage": "https://styles.redditmedia.com/t5_mb2hi/styles/profileIcon_snoo1ac41e44-c7ed-4194-9f09-48672b506ee0-headshot.png?width=256&height=256&crop=256:256,smart&s=0e6131dfcf0c758d2c28fb08b8dbae7ebf688161"
+        },
+        "t1_ghn0up0": {
+            "author": "warwinkaten",
+            "authorId": "t2_7v781zci",
+            "collapsed": false,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": null,
+            "created": 1609446818.0,
+            "depth": 1,
+            "deletedBy": null,
+            "distinguishType": null,
+            "editedAt": null,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_ghn0up0",
+            "isAdmin": false,
+            "isDeleted": false,
+            "isGildable": true,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "continueThread-t1_ghn0up0",
+                "type": "continueThread"
+            },
+            "parentId": "t1_ghe6iex",
+            "permalink": "/r/datascience/comments/klvb55/official_2020_end_of_year_salary_sharing_thread/ghn0up0/",
+            "prev": {
+                "id": "t1_ghe6iex",
+                "type": "comment"
+            },
+            "postAuthor": null,
+            "postId": "t3_klvb55",
+            "postTitle": null,
+            "score": 10,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "How long did it take you to switch indistries? Was there any difficulty due to your o&g background? I\u2019m in o&g doing data analytics/science with undergrad in stats."
+                                }
+                            ],
+                            "e": "par"
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            },
+            "profileImage": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+        },
+        "t1_gitdzag": {
+            "author": "jwod42",
+            "authorId": "t2_6olcj98a",
+            "collapsed": false,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": null,
+            "created": 1610323154.0,
+            "depth": 1,
+            "deletedBy": null,
+            "distinguishType": null,
+            "editedAt": null,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_gitdzag",
+            "isAdmin": false,
+            "isDeleted": false,
+            "isGildable": true,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "continueThread-t1_gitdzag",
+                "type": "continueThread"
+            },
+            "parentId": "t1_ghe6iex",
+            "permalink": "/r/datascience/comments/klvb55/official_2020_end_of_year_salary_sharing_thread/gitdzag/",
+            "prev": {
+                "id": "continueThread-t1_ghn0up0",
+                "type": "continueThread"
+            },
+            "postAuthor": null,
+            "postId": "t3_klvb55",
+            "postTitle": null,
+            "score": 1,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "Did you start in data science or in another petro-technical role? What industry are you moving to and why that one instead of other non-O&G options?"
+                                }
+                            ],
+                            "e": "par"
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            },
+            "profileImage": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+        },
+        "t1_gk6pskt": {
+            "author": "veeeerain",
+            "authorId": "t2_5w4i5kd1",
+            "collapsed": false,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": null,
+            "created": 1611328362.0,
+            "depth": 1,
+            "deletedBy": null,
+            "distinguishType": null,
+            "editedAt": null,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_gk6pskt",
+            "isAdmin": false,
+            "isDeleted": false,
+            "isGildable": true,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "continueThread-t1_gk6pskt",
+                "type": "continueThread"
+            },
+            "parentId": "t1_ghe6iex",
+            "permalink": "/r/datascience/comments/klvb55/official_2020_end_of_year_salary_sharing_thread/gk6pskt/",
+            "prev": {
+                "id": "continueThread-t1_gitdzag",
+                "type": "continueThread"
+            },
+            "postAuthor": null,
+            "postId": "t3_klvb55",
+            "postTitle": null,
+            "score": 1,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "In your opinion does getting a PHD make any other benefit besides a jump in salary. And even if it does is it that much of a jump?"
+                                }
+                            ],
+                            "e": "par"
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            },
+            "profileImage": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+        },
+        "t1_gknnep1": {
+            "author": "Noniax",
+            "authorId": "t2_7ozfvprg",
+            "collapsed": false,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": null,
+            "created": 1611536266.0,
+            "depth": 1,
+            "deletedBy": null,
+            "distinguishType": null,
+            "editedAt": null,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_gknnep1",
+            "isAdmin": false,
+            "isDeleted": false,
+            "isGildable": true,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "continueThread-t1_gknnep1",
+                "type": "continueThread"
+            },
+            "parentId": "t1_ghe6iex",
+            "permalink": "/r/datascience/comments/klvb55/official_2020_end_of_year_salary_sharing_thread/gknnep1/",
+            "prev": {
+                "id": "continueThread-t1_gk6pskt",
+                "type": "continueThread"
+            },
+            "postAuthor": null,
+            "postId": "t3_klvb55",
+            "postTitle": null,
+            "score": 1,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "c": [
+                                        {
+                                            "e": "text",
+                                            "t": "ngth: 3yrs"
+                                        }
+                                    ],
+                                    "e": "par"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "e": "text",
+                                            "t": "Location: Houston"
+                                        }
+                                    ],
+                                    "e": "par"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "e": "text",
+                                            "t": "Salary: $140,000"
+                                        }
+                                    ],
+                                    "e": "par"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "e": "text",
+                                            "t": "Company/Industry: Oil and Gas"
+                                        }
+                                    ],
+                                    "e": "par"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "e": "text",
+                                            "t": "Education: Masters in Applied Statistics"
+                                        }
+                                    ],
+                                    "e": "par"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "e": "text",
+                                            "t": "Prior Experience: 2yrs of actu"
+                                        }
+                                    ],
+                                    "e": "par"
+                                }
+                            ],
+                            "e": "blockquote"
+                        },
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "are you a phd too?"
+                                }
+                            ],
+                            "e": "par"
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            },
+            "profileImage": "https://styles.redditmedia.com/t5_31d8ps/styles/profileIcon_snooa8f929e0-176f-4610-bc2c-d3a6bc5fd0ab-headshot.png?width=256&height=256&crop=256:256,smart&s=8601d012a0410a450466f69ba2de1b4cce106af8"
+        },
+        "t1_gkucp35": {
+            "author": "plz_acceptme",
+            "authorId": "t2_8z8y22pq",
+            "collapsed": false,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": null,
+            "created": 1611681235.0,
+            "depth": 1,
+            "deletedBy": null,
+            "distinguishType": null,
+            "editedAt": null,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_gkucp35",
+            "isAdmin": false,
+            "isDeleted": false,
+            "isGildable": true,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "continueThread-t1_gkucp35",
+                "type": "continueThread"
+            },
+            "parentId": "t1_ghe6iex",
+            "permalink": "/r/datascience/comments/klvb55/official_2020_end_of_year_salary_sharing_thread/gkucp35/",
+            "prev": {
+                "id": "continueThread-t1_gknnep1",
+                "type": "continueThread"
+            },
+            "postAuthor": null,
+            "postId": "t3_klvb55",
+            "postTitle": null,
+            "score": 1,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "I am an aspiring actuary! May I ask how did you make the switch? Did you take any bootcamp courses?"
+                                }
+                            ],
+                            "e": "par"
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            },
+            "profileImage": "https://styles.redditmedia.com/t5_3g242g/styles/profileIcon_snoo7ecb9ee3-590a-4e48-af42-c07c3266094b-headshot-f.png?width=256&height=256&crop=256:256,smart&s=a97506ab225ada8447f2aba0df63225cb04a607f"
+        },
+        "t1_gl1nhtg": {
+            "author": "Key-Concept-3255",
+            "authorId": "t2_9jcovf60",
+            "collapsed": false,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": null,
+            "created": 1611805942.0,
+            "depth": 1,
+            "deletedBy": null,
+            "distinguishType": null,
+            "editedAt": null,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_gl1nhtg",
+            "isAdmin": false,
+            "isDeleted": false,
+            "isGildable": true,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "t1_gmnjuyc",
+                "type": "comment"
+            },
+            "parentId": "t1_ghe6iex",
+            "permalink": "/r/datascience/comments/klvb55/official_2020_end_of_year_salary_sharing_thread/gl1nhtg/",
+            "prev": {
+                "id": "continueThread-t1_gkucp35",
+                "type": "continueThread"
+            },
+            "postAuthor": null,
+            "postId": "t3_klvb55",
+            "postTitle": null,
+            "score": 1,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "This is my dream job"
+                                }
+                            ],
+                            "e": "par"
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            },
+            "profileImage": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+        },
+        "t1_gmnjuyc": {
+            "author": "contactstaff",
+            "authorId": "t2_6uu6w",
+            "collapsed": false,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": null,
+            "created": 1612837663.0,
+            "depth": 1,
+            "deletedBy": null,
+            "distinguishType": null,
+            "editedAt": null,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_gmnjuyc",
+            "isAdmin": false,
+            "isDeleted": false,
+            "isGildable": true,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "continueThread-t1_gmnjuyc",
+                "type": "continueThread"
+            },
+            "parentId": "t1_ghe6iex",
+            "permalink": "/r/datascience/comments/klvb55/official_2020_end_of_year_salary_sharing_thread/gmnjuyc/",
+            "prev": {
+                "id": "t1_gl1nhtg",
+                "type": "comment"
+            },
+            "postAuthor": null,
+            "postId": "t3_klvb55",
+            "postTitle": null,
+            "score": 1,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "DS and actuary are the two careers I'm looking at gearing myself towards (currently undegrad in economics and management science). Why did you make the switch from act to ds? Can I ask what you like/dislike about each role?"
+                                }
+                            ],
+                            "e": "par"
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            },
+            "profileImage": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+        },
+        "t1_goa7vuz": {
+            "author": "Clicketrie",
+            "authorId": "t2_r1qpqza",
+            "collapsed": false,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": null,
+            "created": 1613952114.0,
+            "depth": 1,
+            "deletedBy": null,
+            "distinguishType": null,
+            "editedAt": null,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_goa7vuz",
+            "isAdmin": false,
+            "isDeleted": false,
+            "isGildable": true,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "t1_ghha9ef",
+                "type": "comment"
+            },
+            "parentId": "t1_ghe6iex",
+            "permalink": "/r/datascience/comments/klvb55/official_2020_end_of_year_salary_sharing_thread/goa7vuz/",
+            "prev": {
+                "id": "continueThread-t1_gmnjuyc",
+                "type": "continueThread"
+            },
+            "postAuthor": null,
+            "postId": "t3_klvb55",
+            "postTitle": null,
+            "score": 1,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "I made the same move in 2012 from the utilities to e-comm (also did a small stint in healthcare).  Other industries have a much better culture."
+                                }
+                            ],
+                            "e": "par"
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            },
+            "profileImage": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+        },
+        "t1_ghha9ef": {
+            "author": "[deleted]",
+            "authorId": null,
+            "collapsed": true,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": "DELETED",
+            "created": 1609313352.0,
+            "depth": 0,
+            "deletedBy": "user",
+            "distinguishType": null,
+            "editedAt": null,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_ghha9ef",
+            "isAdmin": false,
+            "isDeleted": true,
+            "isGildable": false,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "t1_giubmra",
+                "type": "comment"
+            },
+            "parentId": null,
+            "permalink": "/r/datascience/comments/klvb55/official_2020_end_of_year_salary_sharing_thread/ghha9ef/",
+            "prev": {
+                "id": "t1_goa7vuz",
+                "type": "comment"
+            },
+            "postAuthor": null,
+            "postId": "t3_klvb55",
+            "postTitle": null,
+            "score": 104,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "[deleted]"
+                                }
+                            ],
+                            "e": "par"
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            }
+        },
+        "t1_giubmra": {
+            "author": "AngryDuckling1",
+            "authorId": "t2_1nhqot00",
+            "collapsed": false,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": null,
+            "created": 1610340104.0,
+            "depth": 1,
+            "deletedBy": null,
+            "distinguishType": null,
+            "editedAt": null,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_giubmra",
+            "isAdmin": false,
+            "isDeleted": false,
+            "isGildable": true,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "t1_ghs4gnt",
+                "type": "comment"
+            },
+            "parentId": "t1_ghha9ef",
+            "permalink": "/r/datascience/comments/klvb55/official_2020_end_of_year_salary_sharing_thread/giubmra/",
+            "prev": {
+                "id": "t1_ghha9ef",
+                "type": "comment"
+            },
+            "postAuthor": null,
+            "postId": "t3_klvb55",
+            "postTitle": null,
+            "score": 14,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "PhD in Comp Sci?"
+                                }
+                            ],
+                            "e": "par"
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            },
+            "profileImage": "https://styles.redditmedia.com/t5_ky8qu/styles/profileIcon_snoodf61dfca-85b2-40fa-b99c-384c0a4cc65e-headshot-f.png?width=256&height=256&crop=256:256,smart&s=564c5e82f65b10484107086d25a83c97c2e98c38"
+        },
+        "t1_ghs4gnt": {
+            "author": "bigno53",
+            "authorId": "t2_autc9vc",
+            "collapsed": false,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": null,
+            "created": 1609550076.0,
+            "depth": 1,
+            "deletedBy": null,
+            "distinguishType": null,
+            "editedAt": null,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_ghs4gnt",
+            "isAdmin": false,
+            "isDeleted": false,
+            "isGildable": true,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "continueThread-t1_ghs4gnt",
+                "type": "continueThread"
+            },
+            "parentId": "t1_ghha9ef",
+            "permalink": "/r/datascience/comments/klvb55/official_2020_end_of_year_salary_sharing_thread/ghs4gnt/",
+            "prev": {
+                "id": "t1_giubmra",
+                "type": "comment"
+            },
+            "postAuthor": null,
+            "postId": "t3_klvb55",
+            "postTitle": null,
+            "score": 10,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "Bay Area?"
+                                }
+                            ],
+                            "e": "par"
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            },
+            "profileImage": "https://styles.redditmedia.com/t5_14f0u5/styles/profileIcon_snoo82f2cf8f-cf3a-408a-a199-8ed402840656-headshot.png?width=256&height=256&crop=256:256,smart&s=a52376a9c4fde124fc446d55151bc562503851a3",
+            "profileOver18": true
+        },
+        "t1_gi5pi8o": {
+            "author": "FIREstarterartichoke",
+            "authorId": "t2_5t208lgl",
+            "collapsed": false,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": null,
+            "created": 1609830408.0,
+            "depth": 1,
+            "deletedBy": null,
+            "distinguishType": null,
+            "editedAt": null,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_gi5pi8o",
+            "isAdmin": false,
+            "isDeleted": false,
+            "isGildable": true,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "continueThread-t1_gi5pi8o",
+                "type": "continueThread"
+            },
+            "parentId": "t1_ghha9ef",
+            "permalink": "/r/datascience/comments/klvb55/official_2020_end_of_year_salary_sharing_thread/gi5pi8o/",
+            "prev": {
+                "id": "continueThread-t1_ghs4gnt",
+                "type": "continueThread"
+            },
+            "postAuthor": null,
+            "postId": "t3_klvb55",
+            "postTitle": null,
+            "score": 8,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "How long did you work at other FAANG companies before you got this position?"
+                                }
+                            ],
+                            "e": "par"
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            },
+            "profileImage": "https://styles.redditmedia.com/t5_2gkzyw/styles/profileIcon_snoo3af771c6-5629-4fd0-9274-0be78e2eddbf-headshot.png?width=256&height=256&crop=256:256,smart&s=0db41674ac48c534d6a8ecdf73a8838f76888fcf"
+        },
+        "t1_gj7urf4": {
+            "author": "thomasahle",
+            "authorId": "t2_f85t9",
+            "collapsed": false,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": null,
+            "created": 1610623272.0,
+            "depth": 1,
+            "deletedBy": null,
+            "distinguishType": null,
+            "editedAt": null,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_gj7urf4",
+            "isAdmin": false,
+            "isDeleted": false,
+            "isGildable": true,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "continueThread-t1_gj7urf4",
+                "type": "continueThread"
+            },
+            "parentId": "t1_ghha9ef",
+            "permalink": "/r/datascience/comments/klvb55/official_2020_end_of_year_salary_sharing_thread/gj7urf4/",
+            "prev": {
+                "id": "continueThread-t1_gi5pi8o",
+                "type": "continueThread"
+            },
+            "postAuthor": null,
+            "postId": "t3_klvb55",
+            "postTitle": null,
+            "score": 6,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "This is something like E7/L7?"
+                                }
+                            ],
+                            "e": "par"
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            },
+            "profileImage": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+        },
+        "t1_gjdw1q9": {
+            "author": "Louis-Chiaki",
+            "authorId": "t2_leneu",
+            "collapsed": false,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": null,
+            "created": 1610745307.0,
+            "depth": 1,
+            "deletedBy": null,
+            "distinguishType": null,
+            "editedAt": null,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_gjdw1q9",
+            "isAdmin": false,
+            "isDeleted": false,
+            "isGildable": true,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "continueThread-t1_gjdw1q9",
+                "type": "continueThread"
+            },
+            "parentId": "t1_ghha9ef",
+            "permalink": "/r/datascience/comments/klvb55/official_2020_end_of_year_salary_sharing_thread/gjdw1q9/",
+            "prev": {
+                "id": "continueThread-t1_gj7urf4",
+                "type": "continueThread"
+            },
+            "postAuthor": null,
+            "postId": "t3_klvb55",
+            "postTitle": null,
+            "score": 3,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "What will be the most important skill to come to your level? People? Knowledge? or Experience?"
+                                }
+                            ],
+                            "e": "par"
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            },
+            "profileImage": "https://styles.redditmedia.com/t5_bpu4g/styles/profileIcon_snooa95ae1fb-633f-4f7b-9042-863cf0298527-headshot-f.png?width=256&height=256&crop=256:256,smart&s=78179bae9e8c80e96204bfaaa79def738f882162"
+        },
+        "t1_gpfi2zy": {
+            "author": "adamazo",
+            "authorId": "t2_7w1ibf1x",
+            "collapsed": false,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": null,
+            "created": 1614703110.0,
+            "depth": 1,
+            "deletedBy": null,
+            "distinguishType": null,
+            "editedAt": null,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_gpfi2zy",
+            "isAdmin": false,
+            "isDeleted": false,
+            "isGildable": true,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "t1_gny1cw3",
+                "type": "comment"
+            },
+            "parentId": "t1_ghha9ef",
+            "permalink": "/r/datascience/comments/klvb55/official_2020_end_of_year_salary_sharing_thread/gpfi2zy/",
+            "prev": {
+                "id": "continueThread-t1_gjdw1q9",
+                "type": "continueThread"
+            },
+            "postAuthor": null,
+            "postId": "t3_klvb55",
+            "postTitle": null,
+            "score": 2,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "just wanted to say thank you for all the replies"
+                                }
+                            ],
+                            "e": "par"
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            },
+            "profileImage": "https://styles.redditmedia.com/t5_31rvh3/styles/profileIcon_snoo0a8c28dc-dd75-483c-a3d0-bf11c73725c5-headshot-f.png?width=256&height=256&crop=256:256,smart&s=d07be4bae690f103d9aef5be447002ba1c538bee"
+        },
+        "t1_gny1cw3": {
+            "author": "USBayernChelseaLCFC",
+            "authorId": "t2_z128h",
+            "collapsed": false,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": null,
+            "created": 1613690448.0,
+            "depth": 1,
+            "deletedBy": null,
+            "distinguishType": null,
+            "editedAt": null,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_gny1cw3",
+            "isAdmin": false,
+            "isDeleted": false,
+            "isGildable": true,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "t1_ghc9kb6",
+                "type": "comment"
+            },
+            "parentId": "t1_ghha9ef",
+            "permalink": "/r/datascience/comments/klvb55/official_2020_end_of_year_salary_sharing_thread/gny1cw3/",
+            "prev": {
+                "id": "t1_gpfi2zy",
+                "type": "comment"
+            },
+            "postAuthor": null,
+            "postId": "t3_klvb55",
+            "postTitle": null,
+            "score": 2,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "nice"
+                                }
+                            ],
+                            "e": "par"
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            },
+            "profileImage": "https://styles.redditmedia.com/t5_1cxqgd/styles/profileIcon_snoo351fb35e-c7c6-4edc-91d0-96e386b2cac9-headshot-f.png?width=256&height=256&crop=256:256,smart&s=faffe9eb487a4d1570dd4f3e93a514be0440bd78",
+            "profileOver18": true
+        },
+        "t1_ghc9kb6": {
+            "author": "KT421",
+            "authorId": "t2_8tz5u",
+            "collapsed": false,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": null,
+            "created": 1609200431.0,
+            "depth": 0,
+            "deletedBy": null,
+            "distinguishType": null,
+            "editedAt": null,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_ghc9kb6",
+            "isAdmin": false,
+            "isDeleted": false,
+            "isGildable": true,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "t1_gii3p2f",
+                "type": "comment"
+            },
+            "parentId": null,
+            "permalink": "/r/datascience/comments/klvb55/official_2020_end_of_year_salary_sharing_thread/ghc9kb6/",
+            "prev": {
+                "id": "t1_gny1cw3",
+                "type": "comment"
+            },
+            "postAuthor": null,
+            "postId": "t3_klvb55",
+            "postTitle": null,
+            "score": 46,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "Title: Program Analyst"
+                                },
+                                {
+                                    "e": "br"
+                                },
+                                {
+                                    "e": "text",
+                                    "t": "Tenure length: 1 years"
+                                },
+                                {
+                                    "e": "br"
+                                },
+                                {
+                                    "e": "text",
+                                    "t": "Location: DC"
+                                },
+                                {
+                                    "e": "br"
+                                },
+                                {
+                                    "e": "text",
+                                    "t": "Salary: $86000"
+                                },
+                                {
+                                    "e": "br"
+                                },
+                                {
+                                    "e": "text",
+                                    "t": "Company/Industry: Federal Gov't (non defense)"
+                                },
+                                {
+                                    "e": "br"
+                                },
+                                {
+                                    "e": "text",
+                                    "t": "Education: M.Ed."
+                                },
+                                {
+                                    "e": "br"
+                                },
+                                {
+                                    "e": "text",
+                                    "t": "Prior Experience: 8 years at same agency in administrative positions"
+                                },
+                                {
+                                    "e": "br"
+                                },
+                                {
+                                    "e": "text",
+                                    "t": "Relocation/Signing Bonus: Nope"
+                                },
+                                {
+                                    "e": "br"
+                                },
+                                {
+                                    "e": "text",
+                                    "t": "Stock and/or recurring bonuses: Lolnope"
+                                }
+                            ],
+                            "e": "par"
+                        },
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "Most of my work is Data Analyst stuff, using R, Python, Tableau, or sometimes good old Excel for data wrangling and visualizations. Very little in the way of ML. A lot of writing a script to do some tedious task, then writing a Shiny frontend so other people can do the same thing without having to look at the scary code."
+                                }
+                            ],
+                            "e": "par"
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            },
+            "profileImage": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png"
+        },
+        "t1_gii3p2f": {
+            "author": "martibang88",
+            "authorId": "t2_83ay9h4w",
+            "collapsed": false,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": null,
+            "created": 1610076073.0,
+            "depth": 0,
+            "deletedBy": null,
+            "distinguishType": null,
+            "editedAt": null,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_gii3p2f",
+            "isAdmin": false,
+            "isDeleted": false,
+            "isGildable": true,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "t1_gijknu1",
+                "type": "comment"
+            },
+            "parentId": null,
+            "permalink": "/r/datascience/comments/klvb55/official_2020_end_of_year_salary_sharing_thread/gii3p2f/",
+            "prev": {
+                "id": "t1_ghc9kb6",
+                "type": "comment"
+            },
+            "postAuthor": null,
+            "postId": "t3_klvb55",
+            "postTitle": null,
+            "score": 31,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Title: Senior Business Analyst (part of an analytics team)",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            58
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Tenure length: 2 months",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            23
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Location: Pacific NW",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            20
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Salary: $120,000",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            16
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Company/Industry: FAANG",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            23
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Education: BS in completely unrelated field",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            43
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Prior Experience: 4 yrs in previous SBA role - 3 yrs in Financial Analyst role",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            78
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Relocation/Signing Bonus: $45,000 YR 1 / $38,000 YR 2",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            53
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Stock and/or recurring bonuses: $125,000 RSU",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            44
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Total comp: Year 1 total comp = $168,000",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            40
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                }
+                            ],
+                            "e": "list",
+                            "o": false
+                        },
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "I  work on a highly skilled analytics team. My technical experience is lacking compared to most of the people I work with and I'm one of the only members of the team without a post-grad education but I somehow made it through the grueling interview process and landed a spot on the team. It's challenging work but nothing I haven't been able to handle so far.",
+                                    "f": [
+                                        [
+                                            1,
+                                            0,
+                                            359
+                                        ]
+                                    ]
+                                }
+                            ],
+                            "e": "par"
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            },
+            "profileImage": "https://styles.redditmedia.com/t5_351tfc/styles/profileIcon_r2u8w6irozp81.jpg?width=256&height=256&crop=256:256,smart&s=71d7a4f60d7f6ebc6d568c78f5a261d1d9978e8a"
+        },
+        "t1_gijknu1": {
+            "author": "ColinRobinsonEnergy",
+            "authorId": "t2_7lu51ow0",
+            "collapsed": false,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": null,
+            "created": 1610116240.0,
+            "depth": 1,
+            "deletedBy": null,
+            "distinguishType": null,
+            "editedAt": null,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_gijknu1",
+            "isAdmin": false,
+            "isDeleted": false,
+            "isGildable": true,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "continueThread-t1_gijknu1",
+                "type": "continueThread"
+            },
+            "parentId": "t1_gii3p2f",
+            "permalink": "/r/datascience/comments/klvb55/official_2020_end_of_year_salary_sharing_thread/gijknu1/",
+            "prev": {
+                "id": "t1_gii3p2f",
+                "type": "comment"
+            },
+            "postAuthor": null,
+            "postId": "t3_klvb55",
+            "postTitle": null,
+            "score": 9,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "Curious - do you know if your salary is on par with your colleagues with the same or similar titles who have an advanced degree (and/or more technical experience)? Or do they make more?"
+                                }
+                            ],
+                            "e": "par"
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            },
+            "profileImage": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+        },
+        "t1_gjeaq6g": {
+            "author": "avangard_2225",
+            "authorId": "t2_1rtw6rei",
+            "collapsed": false,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": null,
+            "created": 1610752742.0,
+            "depth": 1,
+            "deletedBy": null,
+            "distinguishType": null,
+            "editedAt": null,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_gjeaq6g",
+            "isAdmin": false,
+            "isDeleted": false,
+            "isGildable": true,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "continueThread-t1_gjeaq6g",
+                "type": "continueThread"
+            },
+            "parentId": "t1_gii3p2f",
+            "permalink": "/r/datascience/comments/klvb55/official_2020_end_of_year_salary_sharing_thread/gjeaq6g/",
+            "prev": {
+                "id": "continueThread-t1_gijknu1",
+                "type": "continueThread"
+            },
+            "postAuthor": null,
+            "postId": "t3_klvb55",
+            "postTitle": null,
+            "score": 8,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "Wow never heard of 2-year bonus scheme. Congrats on the job! I work as a tester from java track but my programming skills are somewhat mediocre. Currently enjoying learning python but want to switch to a more data related field. I am thinking of joining a bootcamp which offers below knowledge. Can you give me some advice?"
+                                }
+                            ],
+                            "e": "par"
+                        },
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "Microsoft Stack Business Intelligence Developer"
+                                }
+                            ],
+                            "e": "par"
+                        },
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "Data Modeling Data Warehouse T-SQL SSIS SSRS SSAS Power BI Azure Data Factory Azure Data Bricks/Lakes"
+                                }
+                            ],
+                            "e": "par"
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            },
+            "profileImage": "https://styles.redditmedia.com/t5_lrpb9/styles/profileIcon_snoo643b670f-3603-4b7c-9e2e-88507f456f29-headshot-f.png?width=256&height=256&crop=256:256,smart&s=900f2c84ed2e19b3ab5244272a3a480a11c00072"
+        },
+        "t1_gnoi3gr": {
+            "author": "linguini57",
+            "authorId": "t2_qpzjyed",
+            "collapsed": false,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": null,
+            "created": 1613504160.0,
+            "depth": 1,
+            "deletedBy": null,
+            "distinguishType": null,
+            "editedAt": null,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_gnoi3gr",
+            "isAdmin": false,
+            "isDeleted": false,
+            "isGildable": true,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "continueThread-t1_gnoi3gr",
+                "type": "continueThread"
+            },
+            "parentId": "t1_gii3p2f",
+            "permalink": "/r/datascience/comments/klvb55/official_2020_end_of_year_salary_sharing_thread/gnoi3gr/",
+            "prev": {
+                "id": "continueThread-t1_gjeaq6g",
+                "type": "continueThread"
+            },
+            "postAuthor": null,
+            "postId": "t3_klvb55",
+            "postTitle": null,
+            "score": 4,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "Super interesting, i love hearing about folks coming from an unrelated field into DS/ analytics."
+                                }
+                            ],
+                            "e": "par"
+                        },
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "I'm in a similar boat (accounting/info systems) just now starting to dabble more with python and sql. Good luck to you!"
+                                }
+                            ],
+                            "e": "par"
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            },
+            "profileImage": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+        },
+        "t1_gj9mnt1": {
+            "author": "asmolins",
+            "authorId": "t2_e2i3i3q",
+            "collapsed": false,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": null,
+            "created": 1610656508.0,
+            "depth": 1,
+            "deletedBy": null,
+            "distinguishType": null,
+            "editedAt": null,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_gj9mnt1",
+            "isAdmin": false,
+            "isDeleted": false,
+            "isGildable": true,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "continueThread-t1_gj9mnt1",
+                "type": "continueThread"
+            },
+            "parentId": "t1_gii3p2f",
+            "permalink": "/r/datascience/comments/klvb55/official_2020_end_of_year_salary_sharing_thread/gj9mnt1/",
+            "prev": {
+                "id": "continueThread-t1_gnoi3gr",
+                "type": "continueThread"
+            },
+            "postAuthor": null,
+            "postId": "t3_klvb55",
+            "postTitle": null,
+            "score": 1,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "When you say BS on completely unrelated field, what are we talking about here? I\u2019m in the same boat transitioning to analytics with a MA in Public Policy. Self-teaching some technical skills ATM."
+                                }
+                            ],
+                            "e": "par"
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            },
+            "profileImage": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+        },
+        "t1_gj6hgot": {
+            "author": "OlympiaPearl",
+            "authorId": "t2_6b5ufkk5",
+            "collapsed": false,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": null,
+            "created": 1610587285.0,
+            "depth": 0,
+            "deletedBy": null,
+            "distinguishType": null,
+            "editedAt": null,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_gj6hgot",
+            "isAdmin": false,
+            "isDeleted": false,
+            "isGildable": true,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "moreComments-t1_gj6u8le",
+                "type": "moreComments"
+            },
+            "parentId": null,
+            "permalink": "/r/datascience/comments/klvb55/official_2020_end_of_year_salary_sharing_thread/gj6hgot/",
+            "prev": {
+                "id": "continueThread-t1_gj9mnt1",
+                "type": "continueThread"
+            },
+            "postAuthor": null,
+            "postId": "t3_klvb55",
+            "postTitle": null,
+            "score": 31,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "Wondering is there a thread like this for non-Americans? Particularly for those in the EU or even UK"
+                                }
+                            ],
+                            "e": "par"
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            },
+            "profileImage": "https://styles.redditmedia.com/t5_2lznh1/styles/profileIcon_snoo224565f6-9c4c-4081-b4da-4301dc9687d5-headshot-f.png?width=256&height=256&crop=256:256,smart&s=256f5c12a41ce658c6d66085ebd6fc02c750e296"
+        }
+    },
+    "features": null,
+    "moreComments": {
+        "moreComments-t1_gj6u8le": {
+            "id": "moreComments-t1_gj6u8le",
+            "depth": 1,
+            "parentId": "t1_gj6hgot",
+            "token": "Z2o2dThsZQ==",
+            "numComments": 10,
+            "next": null,
+            "prev": {
+                "id": "t1_gj6hgot",
+                "type": "comment"
+            },
+            "postId": "t3_klvb55"
+        }
+    },
+    "postFlair": {
+        "t5_2sptq": {
+            "displaySettings": {
+                "isEnabled": true,
+                "position": "left"
+            },
+            "permissions": {
+                "canAssignOwn": true
+            },
+            "templates": {},
+            "templateIds": []
+        }
+    },
+    "postMeta": null,
+    "posts": {
+        "t3_klvb55": {
+            "id": "t3_klvb55",
+            "numComments": 357,
+            "created": 1609178247000,
+            "score": 247,
+            "distinguishType": "moderator",
+            "isLocked": false,
+            "isStickied": false,
+            "thumbnail": {
+                "url": "self",
+                "width": null,
+                "height": null
+            },
+            "title": "[Official] 2020 End of Year Salary Sharing thread",
+            "author": "Omega037",
+            "authorId": "t2_6kl7i",
+            "authorIsBlocked": false,
+            "domain": "self.datascience",
+            "postId": "t3_klvb55",
+            "upvoteRatio": 0.99,
+            "numDuplicates": 0,
+            "discussionType": null,
+            "viewCount": 0,
+            "goldCount": 0,
+            "isArchived": false,
+            "contestMode": false,
+            "gildings": null,
+            "allAwardings": [
+                {
+                    "awardType": "global",
+                    "awardSubType": "GLOBAL",
+                    "coinPrice": 150,
+                    "coinReward": 0,
+                    "daysOfDripExtension": null,
+                    "daysOfPremium": null,
+                    "description": "Thank you stranger. Shows the award.",
+                    "giverCoinReward": null,
+                    "iconUrl": "https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png",
+                    "iconWidth": 2048,
+                    "iconHeight": 2048,
+                    "staticIconUrl": "https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png",
+                    "staticIconWidth": 2048,
+                    "staticIconHeight": 2048,
+                    "id": "award_f44611f1-b89e-46dc-97fe-892280b13b82",
+                    "isEnabled": true,
+                    "isNew": false,
+                    "name": "Helpful",
+                    "pennyDonate": null,
+                    "pennyPrice": null,
+                    "resizedIcons": [
+                        {
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&height=16&auto=webp&s=a5662dfbdb402bf67866c050aa76c31c147c2f45",
+                            "width": 16,
+                            "height": 16
+                        },
+                        {
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&height=32&auto=webp&s=a6882eb3f380e8e88009789f4d0072e17b8c59f1",
+                            "width": 32,
+                            "height": 32
+                        },
+                        {
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&height=48&auto=webp&s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d",
+                            "width": 48,
+                            "height": 48
+                        },
+                        {
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&height=64&auto=webp&s=8e5bb2e76683cb6b161830bcdd9642049d6adc11",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&height=128&auto=webp&s=eda4a9246f95f42ee6940cc0ec65306fd20de878",
+                            "width": 128,
+                            "height": 128
+                        }
+                    ],
+                    "resizedStaticIcons": [
+                        {
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&height=16&auto=webp&s=a5662dfbdb402bf67866c050aa76c31c147c2f45",
+                            "width": 16,
+                            "height": 16
+                        },
+                        {
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&height=32&auto=webp&s=a6882eb3f380e8e88009789f4d0072e17b8c59f1",
+                            "width": 32,
+                            "height": 32
+                        },
+                        {
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&height=48&auto=webp&s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d",
+                            "width": 48,
+                            "height": 48
+                        },
+                        {
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&height=64&auto=webp&s=8e5bb2e76683cb6b161830bcdd9642049d6adc11",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&height=128&auto=webp&s=eda4a9246f95f42ee6940cc0ec65306fd20de878",
+                            "width": 128,
+                            "height": 128
+                        }
+                    ],
+                    "subredditCoinReward": 0,
+                    "subredditId": null,
+                    "awardingsRequiredToGrantBenefits": null,
+                    "tiersByRequiredAwardings": null,
+                    "count": 3
+                },
+                {
+                    "awardType": "global",
+                    "awardSubType": "GLOBAL",
+                    "coinPrice": 125,
+                    "coinReward": 0,
+                    "daysOfDripExtension": null,
+                    "daysOfPremium": null,
+                    "description": "When you come across a feel-good thing.",
+                    "giverCoinReward": null,
+                    "iconUrl": "https://i.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png",
+                    "iconWidth": 2048,
+                    "iconHeight": 2048,
+                    "staticIconUrl": "https://i.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png",
+                    "staticIconWidth": 2048,
+                    "staticIconHeight": 2048,
+                    "id": "award_5f123e3d-4f48-42f4-9c11-e98b566d5897",
+                    "isEnabled": true,
+                    "isNew": false,
+                    "name": "Wholesome",
+                    "pennyDonate": null,
+                    "pennyPrice": null,
+                    "resizedIcons": [
+                        {
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=16&height=16&auto=webp&s=92932f465d58e4c16b12b6eac4ca07d27e3d11c0",
+                            "width": 16,
+                            "height": 16
+                        },
+                        {
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=32&height=32&auto=webp&s=d11484a208d68a318bf9d4fcf371171a1cb6a7ef",
+                            "width": 32,
+                            "height": 32
+                        },
+                        {
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=48&height=48&auto=webp&s=febdf28b6f39f7da7eb1365325b85e0bb49a9f63",
+                            "width": 48,
+                            "height": 48
+                        },
+                        {
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=64&height=64&auto=webp&s=b4406a2d88bf86fa3dc8a45aacf7e0c7bdccc4fb",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=128&height=128&auto=webp&s=19555b13e3e196b62eeb9160d1ac1d1b372dcb0b",
+                            "width": 128,
+                            "height": 128
+                        }
+                    ],
+                    "resizedStaticIcons": [
+                        {
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=16&height=16&auto=webp&s=92932f465d58e4c16b12b6eac4ca07d27e3d11c0",
+                            "width": 16,
+                            "height": 16
+                        },
+                        {
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=32&height=32&auto=webp&s=d11484a208d68a318bf9d4fcf371171a1cb6a7ef",
+                            "width": 32,
+                            "height": 32
+                        },
+                        {
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=48&height=48&auto=webp&s=febdf28b6f39f7da7eb1365325b85e0bb49a9f63",
+                            "width": 48,
+                            "height": 48
+                        },
+                        {
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=64&height=64&auto=webp&s=b4406a2d88bf86fa3dc8a45aacf7e0c7bdccc4fb",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=128&height=128&auto=webp&s=19555b13e3e196b62eeb9160d1ac1d1b372dcb0b",
+                            "width": 128,
+                            "height": 128
+                        }
+                    ],
+                    "subredditCoinReward": 0,
+                    "subredditId": null,
+                    "awardingsRequiredToGrantBenefits": null,
+                    "tiersByRequiredAwardings": null,
+                    "count": 2
+                },
+                {
+                    "awardType": "global",
+                    "awardSubType": "GLOBAL",
+                    "coinPrice": 80,
+                    "coinReward": 0,
+                    "daysOfDripExtension": null,
+                    "daysOfPremium": null,
+                    "description": "Everything is better with a good hug",
+                    "giverCoinReward": null,
+                    "iconUrl": "https://i.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png",
+                    "iconWidth": 2048,
+                    "iconHeight": 2048,
+                    "staticIconUrl": "https://i.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png",
+                    "staticIconWidth": 2048,
+                    "staticIconHeight": 2048,
+                    "id": "award_8352bdff-3e03-4189-8a08-82501dd8f835",
+                    "isEnabled": true,
+                    "isNew": false,
+                    "name": "Hugz",
+                    "pennyDonate": null,
+                    "pennyPrice": 0,
+                    "resizedIcons": [
+                        {
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png?width=16&height=16&auto=webp&s=73a23bf7f08b633508dedf457f2704c522b94a04",
+                            "width": 16,
+                            "height": 16
+                        },
+                        {
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png?width=32&height=32&auto=webp&s=50f2f16e71d2929e3d7275060af3ad6b851dbfb1",
+                            "width": 32,
+                            "height": 32
+                        },
+                        {
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png?width=48&height=48&auto=webp&s=ca487311563425e195699a4d7e4c57a98cbfde8b",
+                            "width": 48,
+                            "height": 48
+                        },
+                        {
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png?width=64&height=64&auto=webp&s=7b4eedcffb1c09a826e7837532c52979760f1d2b",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png?width=128&height=128&auto=webp&s=e4d5ab237eb71a9f02bb3bf9ad5ee43741918d6c",
+                            "width": 128,
+                            "height": 128
+                        }
+                    ],
+                    "resizedStaticIcons": [
+                        {
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png?width=16&height=16&auto=webp&s=69997ace3ef4ffc099b81d774c2c8f1530602875",
+                            "width": 16,
+                            "height": 16
+                        },
+                        {
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png?width=32&height=32&auto=webp&s=e9519d1999ef9dce5c8a9f59369cb92f52d95319",
+                            "width": 32,
+                            "height": 32
+                        },
+                        {
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png?width=48&height=48&auto=webp&s=f076c6434fb2d2f9075991810fd845c40fa73fc6",
+                            "width": 48,
+                            "height": 48
+                        },
+                        {
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png?width=64&height=64&auto=webp&s=85527145e0c4b754306a30df29e584fd16187636",
+                            "width": 64,
+                            "height": 64
+                        },
+                        {
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png?width=128&height=128&auto=webp&s=b8843cdf82c3b741d7af057c14076dcd2621e811",
+                            "width": 128,
+                            "height": 128
+                        }
+                    ],
+                    "subredditCoinReward": 0,
+                    "subredditId": null,
+                    "awardingsRequiredToGrantBenefits": null,
+                    "tiersByRequiredAwardings": null,
+                    "count": 2
+                }
+            ],
+            "postCategories": null,
+            "suggestedSort": "confidence",
+            "belongsTo": {
+                "id": "t5_2sptq",
+                "type": "subreddit"
+            },
+            "flair": [],
+            "hidden": false,
+            "saved": false,
+            "isGildable": false,
+            "isMediaOnly": false,
+            "isSponsored": false,
+            "isNSFW": false,
+            "isMeta": false,
+            "isSpoiler": false,
+            "isBlank": false,
+            "sendReplies": true,
+            "voteState": 0,
+            "permalink": "https://www.reddit.com/r/datascience/comments/klvb55/official_2020_end_of_year_salary_sharing_thread/",
+            "events": [],
+            "eventsOnRender": [],
+            "callToAction": null,
+            "domainOverride": null,
+            "impressionId": null,
+            "isSurveyAd": null,
+            "impressionIdStr": null,
+            "isCreatedFromAdsUi": false,
+            "media": {
+                "obfuscated": null,
+                "type": "rtjson",
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "See "
+                                },
+                                {
+                                    "u": "https://www.reddit.com/r/datascience/comments/e8fown/official_2019_end_of_year_salary_sharing_thread/",
+                                    "e": "link",
+                                    "t": "last year's Salary Sharing thread here"
+                                },
+                                {
+                                    "e": "text",
+                                    "t": "."
+                                }
+                            ],
+                            "e": "par"
+                        },
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "MODNOTE: Borrowed this from ",
+                                    "f": [
+                                        [
+                                            1,
+                                            0,
+                                            7
+                                        ]
+                                    ]
+                                },
+                                {
+                                    "u": "https://www.reddit.com/r/cscareerquestions/",
+                                    "e": "link",
+                                    "t": "r/cscareerquestions"
+                                },
+                                {
+                                    "e": "text",
+                                    "t": ". Some people like these kinds of threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!"
+                                }
+                            ],
+                            "e": "par"
+                        },
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "This is the official thread for sharing your current salaries (or recent offers)."
+                                }
+                            ],
+                            "e": "par"
+                        },
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "Please only post salaries/offers if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also generalize some of your answers (e.g. \"Large biotech company\"), or add fields if you feel something is particularly relevant."
+                                }
+                            ],
+                            "e": "par"
+                        },
+                        {
+                            "c": [
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Title:",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            6
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Tenure length:",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            14
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Location:",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            9
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Salary:",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            7
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Company/Industry:",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            17
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Education:",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            10
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Prior Experience:",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            17
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        },
+                                        {
+                                            "c": [
+                                                {
+                                                    "c": [
+                                                        {
+                                                            "c": [
+                                                                {
+                                                                    "e": "text",
+                                                                    "t": "$Internship",
+                                                                    "f": [
+                                                                        [
+                                                                            1,
+                                                                            0,
+                                                                            11
+                                                                        ]
+                                                                    ]
+                                                                }
+                                                            ],
+                                                            "e": "par"
+                                                        }
+                                                    ],
+                                                    "e": "li"
+                                                },
+                                                {
+                                                    "c": [
+                                                        {
+                                                            "c": [
+                                                                {
+                                                                    "e": "text",
+                                                                    "t": "$Coop",
+                                                                    "f": [
+                                                                        [
+                                                                            1,
+                                                                            0,
+                                                                            5
+                                                                        ]
+                                                                    ]
+                                                                }
+                                                            ],
+                                                            "e": "par"
+                                                        }
+                                                    ],
+                                                    "e": "li"
+                                                }
+                                            ],
+                                            "e": "list",
+                                            "o": false
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Relocation/Signing Bonus:",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            25
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Stock and/or recurring bonuses:",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            31
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Total comp:",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            11
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                }
+                            ],
+                            "e": "list",
+                            "o": false
+                        },
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "Note that while the primary purpose of these threads is obviously to share compensation info, discussion is also encouraged."
+                                }
+                            ],
+                            "e": "par"
+                        }
+                    ]
+                },
+                "mediaMetadata": null,
+                "rteMode": "richtext"
+            },
+            "crosspostRootId": null,
+            "crosspostParentId": null,
+            "numCrossposts": 0,
+            "isCrosspostable": false,
+            "liveCommentsWebsocket": "wss://ws-0fef05a3216736678.wss.redditmedia.com/link/klvb55?m=AQAALeXWYhN1AZwEUeVLqjyw6bQfYf8vSfpRONKuRmQ3At7G503Q",
+            "source": null,
+            "isOriginalContent": false,
+            "contentCategories": null,
+            "isScoreHidden": false
+        }
+    },
+    "profiles": {},
+    "subreddits": {
+        "t5_2sptq": {
+            "displayText": "r/datascience",
+            "id": "t5_2sptq",
+            "isQuarantined": false,
+            "isNSFW": false,
+            "name": "datascience",
+            "whitelistStatus": "all_ads",
+            "wls": 6,
+            "subscribers": 789925,
+            "url": "/r/datascience/",
+            "type": "public",
+            "icon": {
+                "url": "",
+                "width": null,
+                "height": null
+            },
+            "acceptFollowers": true,
+            "title": "Data Science",
+            "communityIcon": "https://styles.redditmedia.com/t5_2sptq/styles/communityIcon_fdj8zurrifa71.png?width=256&s=a9a418840926af79a511991bce743bc67e704730",
+            "primaryColor": "",
+            "allowChatPostCreation": false,
+            "isChatPostFeatureEnabled": false,
+            "freeFormReports": true,
+            "allowPredictions": true,
+            "allowPredictionsTournament": true,
+            "allowTalks": true
+        }
+    },
+    "preferences": null,
+    "continueThreads": {
+        "continueThread-t1_ghn0up0": {
+            "depth": 2,
+            "parentId": "t1_ghn0up0",
+            "id": "continueThread-t1_ghn0up0",
+            "postId": "t3_klvb55",
+            "next": {
+                "id": "t1_gitdzag",
+                "type": "comment"
+            },
+            "prev": {
+                "id": "t1_ghn0up0",
+                "type": "comment"
+            }
+        },
+        "continueThread-t1_gitdzag": {
+            "depth": 2,
+            "parentId": "t1_gitdzag",
+            "id": "continueThread-t1_gitdzag",
+            "postId": "t3_klvb55",
+            "next": {
+                "id": "t1_gk6pskt",
+                "type": "comment"
+            },
+            "prev": {
+                "id": "t1_gitdzag",
+                "type": "comment"
+            }
+        },
+        "continueThread-t1_gk6pskt": {
+            "depth": 2,
+            "parentId": "t1_gk6pskt",
+            "id": "continueThread-t1_gk6pskt",
+            "postId": "t3_klvb55",
+            "next": {
+                "id": "t1_gknnep1",
+                "type": "comment"
+            },
+            "prev": {
+                "id": "t1_gk6pskt",
+                "type": "comment"
+            }
+        },
+        "continueThread-t1_gknnep1": {
+            "depth": 2,
+            "parentId": "t1_gknnep1",
+            "id": "continueThread-t1_gknnep1",
+            "postId": "t3_klvb55",
+            "next": {
+                "id": "t1_gkucp35",
+                "type": "comment"
+            },
+            "prev": {
+                "id": "t1_gknnep1",
+                "type": "comment"
+            }
+        },
+        "continueThread-t1_gkucp35": {
+            "depth": 2,
+            "parentId": "t1_gkucp35",
+            "id": "continueThread-t1_gkucp35",
+            "postId": "t3_klvb55",
+            "next": {
+                "id": "t1_gl1nhtg",
+                "type": "comment"
+            },
+            "prev": {
+                "id": "t1_gkucp35",
+                "type": "comment"
+            }
+        },
+        "continueThread-t1_gmnjuyc": {
+            "depth": 2,
+            "parentId": "t1_gmnjuyc",
+            "id": "continueThread-t1_gmnjuyc",
+            "postId": "t3_klvb55",
+            "next": {
+                "id": "t1_goa7vuz",
+                "type": "comment"
+            },
+            "prev": {
+                "id": "t1_gmnjuyc",
+                "type": "comment"
+            }
+        },
+        "continueThread-t1_ghs4gnt": {
+            "depth": 2,
+            "parentId": "t1_ghs4gnt",
+            "id": "continueThread-t1_ghs4gnt",
+            "postId": "t3_klvb55",
+            "next": {
+                "id": "t1_gi5pi8o",
+                "type": "comment"
+            },
+            "prev": {
+                "id": "t1_ghs4gnt",
+                "type": "comment"
+            }
+        },
+        "continueThread-t1_gi5pi8o": {
+            "depth": 2,
+            "parentId": "t1_gi5pi8o",
+            "id": "continueThread-t1_gi5pi8o",
+            "postId": "t3_klvb55",
+            "next": {
+                "id": "t1_gj7urf4",
+                "type": "comment"
+            },
+            "prev": {
+                "id": "t1_gi5pi8o",
+                "type": "comment"
+            }
+        },
+        "continueThread-t1_gj7urf4": {
+            "depth": 2,
+            "parentId": "t1_gj7urf4",
+            "id": "continueThread-t1_gj7urf4",
+            "postId": "t3_klvb55",
+            "next": {
+                "id": "t1_gjdw1q9",
+                "type": "comment"
+            },
+            "prev": {
+                "id": "t1_gj7urf4",
+                "type": "comment"
+            }
+        },
+        "continueThread-t1_gjdw1q9": {
+            "depth": 2,
+            "parentId": "t1_gjdw1q9",
+            "id": "continueThread-t1_gjdw1q9",
+            "postId": "t3_klvb55",
+            "next": {
+                "id": "t1_gpfi2zy",
+                "type": "comment"
+            },
+            "prev": {
+                "id": "t1_gjdw1q9",
+                "type": "comment"
+            }
+        },
+        "continueThread-t1_gijknu1": {
+            "depth": 2,
+            "parentId": "t1_gijknu1",
+            "id": "continueThread-t1_gijknu1",
+            "postId": "t3_klvb55",
+            "next": {
+                "id": "t1_gjeaq6g",
+                "type": "comment"
+            },
+            "prev": {
+                "id": "t1_gijknu1",
+                "type": "comment"
+            }
+        },
+        "continueThread-t1_gjeaq6g": {
+            "depth": 2,
+            "parentId": "t1_gjeaq6g",
+            "id": "continueThread-t1_gjeaq6g",
+            "postId": "t3_klvb55",
+            "next": {
+                "id": "t1_gnoi3gr",
+                "type": "comment"
+            },
+            "prev": {
+                "id": "t1_gjeaq6g",
+                "type": "comment"
+            }
+        },
+        "continueThread-t1_gnoi3gr": {
+            "depth": 2,
+            "parentId": "t1_gnoi3gr",
+            "id": "continueThread-t1_gnoi3gr",
+            "postId": "t3_klvb55",
+            "next": {
+                "id": "t1_gj9mnt1",
+                "type": "comment"
+            },
+            "prev": {
+                "id": "t1_gnoi3gr",
+                "type": "comment"
+            }
+        },
+        "continueThread-t1_gj9mnt1": {
+            "depth": 2,
+            "parentId": "t1_gj9mnt1",
+            "id": "continueThread-t1_gj9mnt1",
+            "postId": "t3_klvb55",
+            "next": {
+                "id": "t1_gj6hgot",
+                "type": "comment"
+            },
+            "prev": {
+                "id": "t1_gj9mnt1",
+                "type": "comment"
+            }
+        }
+    },
+    "subredditAboutInfo": {
+        "t5_2sptq": {
+            "accountsActive": 675,
+            "advertiserCategory": "",
+            "usingNewModmail": true,
+            "publicDescription": "A place for data science practitioners and professionals to discuss and debate data science career questions.",
+            "showMedia": true,
+            "subscribers": 789925,
+            "userIsSubscriber": null,
+            "userIsContributor": null,
+            "restrictPosting": true,
+            "restrictCommenting": false,
+            "disableContributorRequests": false,
+            "submitLinkLabel": "",
+            "submitTextLabel": "",
+            "created": 1312631022.0,
+            "acceptFollowers": true,
+            "userIsBanned": false,
+            "emojisEnabled": false,
+            "contentCategory": "",
+            "allOriginalContent": false,
+            "originalContentTagEnabled": true,
+            "hasExternalAccount": false,
+            "isCrosspostableSubreddit": false,
+            "shouldArchivePosts": false,
+            "allowedPostTypes": {
+                "links": true,
+                "images": true,
+                "videos": false,
+                "text": true,
+                "spoilers": true,
+                "polls": true,
+                "galleries": true,
+                "talks": true
+            }
+        }
+    },
+    "structuredStyles": null,
+    "userFlair": {
+        "t5_2sptq": {
+            "displaySettings": {
+                "isUserEnabled": false,
+                "isEnabled": true,
+                "position": "right"
+            },
+            "permissions": {
+                "canUserChange": false,
+                "canAssignOwn": false
+            },
+            "applied": null,
+            "templates": {},
+            "templateIds": []
+        }
+    },
+    "subredditPermissions": null
+}

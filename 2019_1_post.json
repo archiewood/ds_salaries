@@ -1,0 +1,3767 @@
+{
+    "account": {
+        "displayText": "Evidence-dev",
+        "url": "/user/Evidence-dev",
+        "accountIcon": "https://styles.redditmedia.com/t5_6j3jq4/styles/profileIcon_ohh8z3tztt591.jpg?width=256&height=256&crop=256:256,smart&s=8dc07fd232ee9c1d05e11a3fc5cb8b4db0e174b9",
+        "id": "t2_om9c0d9g",
+        "created": 1655216786.0,
+        "email": "archie@evidence.dev",
+        "hasUnreadMail": false,
+        "hasUnreadOldModmail": false,
+        "hasUnreadModmail": false,
+        "hasUserProfile": true,
+        "inboxCount": 0,
+        "isEmployee": false,
+        "isMod": false,
+        "hasVerifiedEmail": true,
+        "inRedesignBeta": true,
+        "commentKarma": 132,
+        "postKarma": 1,
+        "isGold": false,
+        "awardedLastMonth": null,
+        "creddits": 0,
+        "coins": 0,
+        "goldExpiration": null,
+        "gildedLastMonth": null,
+        "inChat": false,
+        "showRecentPosts": 5,
+        "showTrending": true,
+        "nightmode": false,
+        "geopopular": "",
+        "profileId": "t5_6j3jq4",
+        "seenRedesignModal": false,
+        "seenLayoutSwitch": false,
+        "seenPremiumAdblockModal": false,
+        "seenSubredditChatFtux": false,
+        "seenGiveAwardTooltip": false,
+        "showPresence": true,
+        "showTwitter": false,
+        "hasExternalAccount": false,
+        "hasGoldSubscription": false,
+        "hasPaypalSubscription": false,
+        "hasStripeSubscription": false,
+        "hasSubscribedToPremium": false,
+        "hasAndroidSubscription": false,
+        "hasIOSSubscription": false,
+        "isSuspended": false,
+        "isFPR": false,
+        "canCreateSubreddit": true,
+        "linkedIdentities": [
+            "https://accounts.google.com"
+        ],
+        "isPasswordSet": true,
+        "isNameEditable": false,
+        "snoovatarFullBodyAsset": null,
+        "isBlocked": false,
+        "suspensionExpirationUtc": null
+    },
+    "authorFlair": {
+        "t5_2sptq": {
+            "throwawayssalary": null,
+            "jarvis125": null,
+            "Sake99": null,
+            "[deleted]": null,
+            "its_a_gibibyte": null,
+            "jonmak-jon": null,
+            "jaskeil_113": null,
+            "onetimeonetime2": null,
+            "johnnyMTG": null,
+            "i_steal-socks": null,
+            "Captain_Flashheart": null,
+            "Urthor": null,
+            "ndjo": null,
+            "culturedindividual": null,
+            "Omega037": {
+                "text": "PhD | Sr Data Scientist Lead | Biotech",
+                "richtext": [],
+                "type": "text",
+                "textColor": "dark",
+                "backgroundColor": "",
+                "templateId": null
+            }
+        }
+    },
+    "commentLists": {
+        "t3_e8fown": {
+            "head": {
+                "id": "t1_fhqv9ek",
+                "type": "comment"
+            },
+            "tail": {
+                "id": "t1_fbi7u7c",
+                "type": "comment"
+            }
+        }
+    },
+    "comments": {
+        "t1_fhqv9ek": {
+            "author": "throwawayssalary",
+            "authorId": "t2_4pcw7zgp",
+            "collapsed": false,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": null,
+            "created": 1581812173.0,
+            "depth": 0,
+            "deletedBy": null,
+            "distinguishType": null,
+            "editedAt": null,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_fhqv9ek",
+            "isAdmin": false,
+            "isDeleted": false,
+            "isGildable": true,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "t1_fna2cwa",
+                "type": "comment"
+            },
+            "parentId": null,
+            "permalink": "/r/datascience/comments/e8fown/official_2019_end_of_year_salary_sharing_thread/fhqv9ek/",
+            "prev": null,
+            "postAuthor": null,
+            "postId": "t3_e8fown",
+            "postTitle": null,
+            "score": 6,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Title: ML Engineer (L7/E7-equivalent level)",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            43
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Tenure length: 1year",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            20
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Location: Seattle",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            17
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Salary: $295k",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            13
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Company/Industry: SaaS",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            22
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Education: MS",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            13
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Prior Experience: ~15yrs, several FAANG-ish companies",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            53
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Relocation/Signing Bonus: $75k",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            30
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Stock and/or recurring bonuses: $75k bonus, $270k RSU's per year",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            64
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Total comp: $640k",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            17
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                }
+                            ],
+                            "e": "list",
+                            "o": false
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            },
+            "profileImage": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+        },
+        "t1_fna2cwa": {
+            "author": "jarvis125",
+            "authorId": "t2_wqc7l",
+            "collapsed": false,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": null,
+            "created": 1586789679.0,
+            "depth": 1,
+            "deletedBy": null,
+            "distinguishType": null,
+            "editedAt": null,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_fna2cwa",
+            "isAdmin": false,
+            "isDeleted": false,
+            "isGildable": true,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "t1_fk6xr6b",
+                "type": "comment"
+            },
+            "parentId": "t1_fhqv9ek",
+            "permalink": "/r/datascience/comments/e8fown/official_2019_end_of_year_salary_sharing_thread/fna2cwa/",
+            "prev": {
+                "id": "t1_fhqv9ek",
+                "type": "comment"
+            },
+            "postAuthor": null,
+            "postId": "t3_e8fown",
+            "postTitle": null,
+            "score": 1,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "I think you're kidding."
+                                }
+                            ],
+                            "e": "par"
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            },
+            "profileImage": "https://styles.redditmedia.com/t5_b44wt/styles/profileIcon_zb0t6ptoq0y21.jpeg?width=256&height=256&crop=256:256,smart&s=169e33b02adbfad25ebe0cf838f7c3ffbc72857f",
+            "profileOver18": true
+        },
+        "t1_fk6xr6b": {
+            "author": "Sake99",
+            "authorId": "t2_iscf5",
+            "collapsed": false,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": null,
+            "created": 1583920776.0,
+            "depth": 1,
+            "deletedBy": null,
+            "distinguishType": null,
+            "editedAt": null,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_fk6xr6b",
+            "isAdmin": false,
+            "isDeleted": false,
+            "isGildable": true,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "t1_fg7en7g",
+                "type": "comment"
+            },
+            "parentId": "t1_fhqv9ek",
+            "permalink": "/r/datascience/comments/e8fown/official_2019_end_of_year_salary_sharing_thread/fk6xr6b/",
+            "prev": {
+                "id": "t1_fna2cwa",
+                "type": "comment"
+            },
+            "postAuthor": null,
+            "postId": "t3_e8fown",
+            "postTitle": null,
+            "score": 2,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "I would be thankful if you tell something about entry level data science."
+                                }
+                            ],
+                            "e": "par"
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            },
+            "profileImage": "https://styles.redditmedia.com/t5_bntcf/styles/profileIcon_snoo349d50e5-4331-4328-8657-1910f69e051a-headshot-f.png?width=256&height=256&crop=256:256,smart&s=7bd99a887d5a3084c112a9c066b36b45910376d8",
+            "profileOver18": true
+        },
+        "t1_fg7en7g": {
+            "author": "[deleted]",
+            "authorId": null,
+            "collapsed": false,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": null,
+            "created": 1580590652.0,
+            "depth": 0,
+            "deletedBy": null,
+            "distinguishType": null,
+            "editedAt": 1582993154.0,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_fg7en7g",
+            "isAdmin": false,
+            "isDeleted": false,
+            "isGildable": false,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "t1_fhe6r8f",
+                "type": "comment"
+            },
+            "parentId": null,
+            "permalink": "/r/datascience/comments/e8fown/official_2019_end_of_year_salary_sharing_thread/fg7en7g/",
+            "prev": {
+                "id": "t1_fk6xr6b",
+                "type": "comment"
+            },
+            "postAuthor": null,
+            "postId": "t3_e8fown",
+            "postTitle": null,
+            "score": 2,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "Throwaway because others know my main acct."
+                                }
+                            ],
+                            "e": "par"
+                        },
+                        {
+                            "c": [
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Title: Manager Data Analytics/Science",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            6
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Tenure length: 1yr",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            14
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Location: Pennsylvania LCOL area (not PHI/PIT)",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            9
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Salary: $160,000",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            7
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Company/Industry: Utility",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            17
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Education: BS Risk Analytics | MS Data Science",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            10
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Prior Experience: 9 yrs in various analytical roles (data, intelligence, and data scientist for last 3ish yrs) for federal government.",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            17
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Stock: ~$20k-50k",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            6
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "recurring bonuses: ~$20k-50k",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            18
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Total comp: ~$200k-260k",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            11
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                }
+                            ],
+                            "e": "list",
+                            "o": false
+                        },
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "Evolved into 'data scientist' as many people did. Started as an intel analyst for fed govt, but graduated BS with good grasp of vba/excel...used it to do some cool stuff, managed other people who could do the same kind of thing...eventually evolved to doing stuff on bigger data sets with python/sql and actually applying some statistical techniques. Around 2016ish is when 'data science' kind of took off and I realized thats what I had been doing. Went back to school (MS), got my role redefined, and finally moved from HCOL area to a LCOL area because of wifes job. Was brought on to manage/create a 'DS CoE' in this utility company."
+                                }
+                            ],
+                            "e": "par"
+                        },
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "*Salary updated - company periodically reassess comps and provides salary increases as necessary (outside of scheduled annual increase and bonus)."
+                                }
+                            ],
+                            "e": "par"
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            }
+        },
+        "t1_fhe6r8f": {
+            "author": "its_a_gibibyte",
+            "authorId": "t2_573k7o9d",
+            "collapsed": false,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": null,
+            "created": 1581515262.0,
+            "depth": 1,
+            "deletedBy": null,
+            "distinguishType": null,
+            "editedAt": null,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_fhe6r8f",
+            "isAdmin": false,
+            "isDeleted": false,
+            "isGildable": true,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "t1_fiadwmg",
+                "type": "comment"
+            },
+            "parentId": "t1_fg7en7g",
+            "permalink": "/r/datascience/comments/e8fown/official_2019_end_of_year_salary_sharing_thread/fhe6r8f/",
+            "prev": {
+                "id": "t1_fg7en7g",
+                "type": "comment"
+            },
+            "postAuthor": null,
+            "postId": "t3_e8fown",
+            "postTitle": null,
+            "score": 2,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "This might be the highest salary on this thread when measured relative to cost of living. All the other high salaries are bay area or seattle."
+                                }
+                            ],
+                            "e": "par"
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            },
+            "profileImage": "https://styles.redditmedia.com/t5_2a5m99/styles/profileIcon_snoo8e1c789b-bc67-4edd-9564-555c807adb1f-headshot-f.png?width=256&height=256&crop=256:256,smart&s=e91bf93a23fa0ba9117e81052c2f6cab808ac7d1",
+            "profileOver18": true
+        },
+        "t1_fiadwmg": {
+            "author": "[deleted]",
+            "authorId": null,
+            "collapsed": false,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": null,
+            "created": 1582299014.0,
+            "depth": 2,
+            "deletedBy": null,
+            "distinguishType": null,
+            "editedAt": null,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_fiadwmg",
+            "isAdmin": false,
+            "isDeleted": false,
+            "isGildable": false,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "t1_fcu6dkb",
+                "type": "comment"
+            },
+            "parentId": "t1_fhe6r8f",
+            "permalink": "/r/datascience/comments/e8fown/official_2019_end_of_year_salary_sharing_thread/fiadwmg/",
+            "prev": {
+                "id": "t1_fhe6r8f",
+                "type": "comment"
+            },
+            "postAuthor": null,
+            "postId": "t3_e8fown",
+            "postTitle": null,
+            "score": 2,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "Actually updated it. One of the perks of the area I live is that its very LCOL, but also very close to both Philly (about an hour to downtown, 40 mintues to Malvern where there is a bunch of big tech), and pretty close to NYC (its about 90 min from my house, but if I lived a bit north it can be less than 1 hour)."
+                                }
+                            ],
+                            "e": "par"
+                        },
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "When our company does comps - they take salaries from the surrounding area which gets a lot of influence from those places and helps drive my salary up. They reassess comps pretty frequently for managers  + so that they can retain good talent."
+                                }
+                            ],
+                            "e": "par"
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            }
+        },
+        "t1_fcu6dkb": {
+            "author": "jonmak-jon",
+            "authorId": "t2_dqcn5",
+            "collapsed": false,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": null,
+            "created": 1577973644.0,
+            "depth": 0,
+            "deletedBy": null,
+            "distinguishType": null,
+            "editedAt": null,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_fcu6dkb",
+            "isAdmin": false,
+            "isDeleted": false,
+            "isGildable": true,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "t1_fc7cg73",
+                "type": "comment"
+            },
+            "parentId": null,
+            "permalink": "/r/datascience/comments/e8fown/official_2019_end_of_year_salary_sharing_thread/fcu6dkb/",
+            "prev": {
+                "id": "t1_fiadwmg",
+                "type": "comment"
+            },
+            "postAuthor": null,
+            "postId": "t3_e8fown",
+            "postTitle": null,
+            "score": 3,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Title: Data Engineer",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            6
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Tenure length: 1.5 years",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            14
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Location: Down Under",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            9
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Salary: $119k",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            7
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Company/Industry: Media",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            17
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Education: Bachelors",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            10
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Prior Experience: 2 years of risk analyst/data analyst",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            17
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Stock and/or recurring bonuses: 10% target bonus + share scheme",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            31
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Total comp: ~133k",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            11
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                }
+                            ],
+                            "e": "list",
+                            "o": false
+                        },
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "Only person (with a bit of help) in company to manage ELT pipelines, BI tool backend and data warehouse. Doing both requirement scoping works with business units and technical implementation. A lot of SQL and fair amount of Python, terraform and some proprietary language. Also did some work on classification models, ML pipelines and data warehouse migration. Wish there's more traditional software engineering in the role."
+                                }
+                            ],
+                            "e": "par"
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            },
+            "profileImage": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png"
+        },
+        "t1_fc7cg73": {
+            "author": "jaskeil_113",
+            "authorId": "t2_12pvzdq1",
+            "collapsed": false,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": null,
+            "created": 1577503376.0,
+            "depth": 0,
+            "deletedBy": null,
+            "distinguishType": null,
+            "editedAt": null,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_fc7cg73",
+            "isAdmin": false,
+            "isDeleted": false,
+            "isGildable": true,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "t1_fc7c9vu",
+                "type": "comment"
+            },
+            "parentId": null,
+            "permalink": "/r/datascience/comments/e8fown/official_2019_end_of_year_salary_sharing_thread/fc7cg73/",
+            "prev": {
+                "id": "t1_fcu6dkb",
+                "type": "comment"
+            },
+            "postAuthor": null,
+            "postId": "t3_e8fown",
+            "postTitle": null,
+            "score": 3,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "Can we include a short description/summary of what you do day-to-day please?"
+                                }
+                            ],
+                            "e": "par"
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            },
+            "profileImage": "https://styles.redditmedia.com/t5_h4xaz/styles/profileIcon_mcfinq81joy61.jpg?width=256&height=256&crop=256:256,smart&s=27afd958e84cc312e77c4e22c9708295832762ec",
+            "profileOver18": true
+        },
+        "t1_fc7c9vu": {
+            "author": "jaskeil_113",
+            "authorId": "t2_12pvzdq1",
+            "collapsed": false,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": null,
+            "created": 1577503236.0,
+            "depth": 0,
+            "deletedBy": null,
+            "distinguishType": null,
+            "editedAt": null,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_fc7c9vu",
+            "isAdmin": false,
+            "isDeleted": false,
+            "isGildable": true,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "t1_fc64rif",
+                "type": "comment"
+            },
+            "parentId": null,
+            "permalink": "/r/datascience/comments/e8fown/official_2019_end_of_year_salary_sharing_thread/fc7c9vu/",
+            "prev": {
+                "id": "t1_fc7cg73",
+                "type": "comment"
+            },
+            "postAuthor": null,
+            "postId": "t3_e8fown",
+            "postTitle": null,
+            "score": 3,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Title: Data Analyst",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            6
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Tenure length: 1.5 yeaers",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            14
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Location: Atlanta",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            9
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Salary: $60k",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            7
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Company/Industry: The Home Depot/Retail",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            17
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Education: BS: Accounting, graduate 2020",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            10
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Prior Experience: 5 months as a pricing analyst at a real estate company",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            17
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Relocation/Signing Bonus: 5% of salary",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            25
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Stock and/or recurring bonuses: 6% company match if I recall correctly",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            31
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Total comp: $63K",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            11
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                }
+                            ],
+                            "e": "list",
+                            "o": false
+                        },
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "Job is mainly data wrangling in SQL (bigquery environment) , Tableau reporting for week-over-week reports, tableau insight tools (provide visibility or intelligence for a class of products/vendors/prices/you name it) , R models (clustering, forecasting sales using R, neural networks for classification models, counterfactual/causal impact analysis), ad-hoc reports that usually end up in an Excel or Tableau file."
+                                }
+                            ],
+                            "e": "par"
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            },
+            "profileImage": "https://styles.redditmedia.com/t5_h4xaz/styles/profileIcon_mcfinq81joy61.jpg?width=256&height=256&crop=256:256,smart&s=27afd958e84cc312e77c4e22c9708295832762ec",
+            "profileOver18": true
+        },
+        "t1_fc64rif": {
+            "author": "onetimeonetime2",
+            "authorId": "t2_5bbdm1qd",
+            "collapsed": false,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": null,
+            "created": 1577472253.0,
+            "depth": 0,
+            "deletedBy": null,
+            "distinguishType": null,
+            "editedAt": null,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_fc64rif",
+            "isAdmin": false,
+            "isDeleted": false,
+            "isGildable": true,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "t1_fk6xvi4",
+                "type": "comment"
+            },
+            "parentId": null,
+            "permalink": "/r/datascience/comments/e8fown/official_2019_end_of_year_salary_sharing_thread/fc64rif/",
+            "prev": {
+                "id": "t1_fc7c9vu",
+                "type": "comment"
+            },
+            "postAuthor": null,
+            "postId": "t3_e8fown",
+            "postTitle": null,
+            "score": 2,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Title: Marketing Manager (doing analysis)",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            6
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Tenure length: 2 years",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            14
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Location: SoCal",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            9
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Salary: $128k",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            7
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Company/Industry: Healthcare",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            17
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Education: BS, Business (just finished MS, CIS)",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            10
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Prior Experience: 10 years, marketing analysis",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            17
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Relocation/Signing Bonus: $5k",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            25
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Stock and/or recurring bonuses: 10%",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            31
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Total comp: $140.8k",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            11
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                }
+                            ],
+                            "e": "list",
+                            "o": false
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            },
+            "profileImage": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png"
+        },
+        "t1_fk6xvi4": {
+            "author": "Sake99",
+            "authorId": "t2_iscf5",
+            "collapsed": false,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": null,
+            "created": 1583920912.0,
+            "depth": 1,
+            "deletedBy": null,
+            "distinguishType": null,
+            "editedAt": null,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_fk6xvi4",
+            "isAdmin": false,
+            "isDeleted": false,
+            "isGildable": true,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "t1_fc2ecd6",
+                "type": "comment"
+            },
+            "parentId": "t1_fc64rif",
+            "permalink": "/r/datascience/comments/e8fown/official_2019_end_of_year_salary_sharing_thread/fk6xvi4/",
+            "prev": {
+                "id": "t1_fc64rif",
+                "type": "comment"
+            },
+            "postAuthor": null,
+            "postId": "t3_e8fown",
+            "postTitle": null,
+            "score": 1,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "what is total comps and recurring bonuses?"
+                                }
+                            ],
+                            "e": "par"
+                        },
+                        {
+                            "c": [],
+                            "e": "par"
+                        },
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "I'm actually non US, so would be helpful if you dig a little for me."
+                                }
+                            ],
+                            "e": "par"
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            },
+            "profileImage": "https://styles.redditmedia.com/t5_bntcf/styles/profileIcon_snoo349d50e5-4331-4328-8657-1910f69e051a-headshot-f.png?width=256&height=256&crop=256:256,smart&s=7bd99a887d5a3084c112a9c066b36b45910376d8",
+            "profileOver18": true
+        },
+        "t1_fc2ecd6": {
+            "author": "johnnyMTG",
+            "authorId": "t2_v59v3",
+            "collapsed": false,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": null,
+            "created": 1577355285.0,
+            "depth": 0,
+            "deletedBy": null,
+            "distinguishType": null,
+            "editedAt": null,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_fc2ecd6",
+            "isAdmin": false,
+            "isDeleted": false,
+            "isGildable": true,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "t1_fcjfdgi",
+                "type": "comment"
+            },
+            "parentId": null,
+            "permalink": "/r/datascience/comments/e8fown/official_2019_end_of_year_salary_sharing_thread/fc2ecd6/",
+            "prev": {
+                "id": "t1_fk6xvi4",
+                "type": "comment"
+            },
+            "postAuthor": null,
+            "postId": "t3_e8fown",
+            "postTitle": null,
+            "score": 8,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Title: Data Analyst",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            6
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Tenure length: 10 months",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            14
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Location: Germany",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            9
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Salary: $64,5k  (\u20ac58k)",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            7
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Company/Industry: MedTech",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            17
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Education: Econ PhD",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            10
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Prior Experience",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            16
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        },
+                                        {
+                                            "c": [
+                                                {
+                                                    "c": [
+                                                        {
+                                                            "c": [
+                                                                {
+                                                                    "e": "text",
+                                                                    "t": "$Internship:  6 months internship at an Econ think tank; 3 months internship at a Consulting company.",
+                                                                    "f": [
+                                                                        [
+                                                                            1,
+                                                                            0,
+                                                                            12
+                                                                        ]
+                                                                    ]
+                                                                }
+                                                            ],
+                                                            "e": "par"
+                                                        }
+                                                    ],
+                                                    "e": "li"
+                                                }
+                                            ],
+                                            "e": "list",
+                                            "o": false
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Relocation/Signing Bonus: NA",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            25
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Stock and/or recurring bonuses: $5.5k **(**\u20ac5k)",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            31
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Total comp: ~$70k",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            11
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                }
+                            ],
+                            "e": "list",
+                            "o": false
+                        },
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "My job is mainly data wrangling with R, Python, Excel, and Tableau. I work about 40h/week and can take time off for exceeding that limit. I studied in Europe because it was more affordable. I enjoy the employee-friendly conditions here. However, I am considering moving to the US to get a higher salary (I have work authorization)."
+                                }
+                            ],
+                            "e": "par"
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            },
+            "profileImage": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+        },
+        "t1_fcjfdgi": {
+            "author": "[deleted]",
+            "authorId": null,
+            "collapsed": true,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": "DELETED",
+            "created": 1577685587.0,
+            "depth": 1,
+            "deletedBy": "user",
+            "distinguishType": null,
+            "editedAt": null,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_fcjfdgi",
+            "isAdmin": false,
+            "isDeleted": true,
+            "isGildable": true,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "t1_fcjqpxn",
+                "type": "comment"
+            },
+            "parentId": "t1_fc2ecd6",
+            "permalink": "/r/datascience/comments/e8fown/official_2019_end_of_year_salary_sharing_thread/fcjfdgi/",
+            "prev": {
+                "id": "t1_fc2ecd6",
+                "type": "comment"
+            },
+            "postAuthor": null,
+            "postId": "t3_e8fown",
+            "postTitle": null,
+            "score": 1,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "[deleted]"
+                                }
+                            ],
+                            "e": "par"
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            }
+        },
+        "t1_fcjqpxn": {
+            "author": "johnnyMTG",
+            "authorId": "t2_v59v3",
+            "collapsed": false,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": null,
+            "created": 1577699840.0,
+            "depth": 2,
+            "deletedBy": null,
+            "distinguishType": null,
+            "editedAt": null,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_fcjqpxn",
+            "isAdmin": false,
+            "isDeleted": false,
+            "isGildable": true,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "t1_fc29qm7",
+                "type": "comment"
+            },
+            "parentId": "t1_fcjfdgi",
+            "permalink": "/r/datascience/comments/e8fown/official_2019_end_of_year_salary_sharing_thread/fcjqpxn/",
+            "prev": {
+                "id": "t1_fcjfdgi",
+                "type": "comment"
+            },
+            "postAuthor": null,
+            "postId": "t3_e8fown",
+            "postTitle": null,
+            "score": 2,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "From my limited experience, knowing the language of the country you apply to in Europe is crucial. If you apply to e.g. Germany, the job positions will usually be described in German and it is generally expected that you write CV and cover letter in German. Also, your colleagues might speak mostly their native language at the lunch table etc. so HR looks for people with good command of the language. If you want to stick to English I recommend the Netherlands and the UK for jobs. Work authorization in the EU will be an obstacle. Your skills are required, but you probably will have to write a lot of applications. In Switzerland you should get away with English as well but due to high salaries its the most competitive"
+                                }
+                            ],
+                            "e": "par"
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            },
+            "profileImage": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png"
+        },
+        "t1_fc29qm7": {
+            "author": "i_steal-socks",
+            "authorId": "t2_zgsq7uy",
+            "collapsed": false,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": null,
+            "created": 1577347411.0,
+            "depth": 0,
+            "deletedBy": null,
+            "distinguishType": null,
+            "editedAt": null,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_fc29qm7",
+            "isAdmin": false,
+            "isDeleted": false,
+            "isGildable": true,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "t1_fbyupdy",
+                "type": "comment"
+            },
+            "parentId": null,
+            "permalink": "/r/datascience/comments/e8fown/official_2019_end_of_year_salary_sharing_thread/fc29qm7/",
+            "prev": {
+                "id": "t1_fcjqpxn",
+                "type": "comment"
+            },
+            "postAuthor": null,
+            "postId": "t3_e8fown",
+            "postTitle": null,
+            "score": 3,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Title: Data Analyst"
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Tenure length: Start Date set in September"
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Location: NJ"
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Salary: $84,000"
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Company/Industry: Consumer Packaged Goods"
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Education: 2 B.s. Data Science & Applied Statistics"
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Prior Experience:"
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "$Internship: 3 summer internships - doing DS/Finance"
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Relocation/Signing Bonus: $5k signing bonus"
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Stock and/or recurring bonuses: 8% EOY target bonus"
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Total comp: $95k"
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                }
+                            ],
+                            "e": "list",
+                            "o": false
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            },
+            "profileImage": "https://styles.redditmedia.com/t5_ge1vc/styles/profileIcon_snooeddfaf6c-a720-4e2c-b3ef-0e28a7bc8d76-headshot.png?width=256&height=256&crop=256:256,smart&s=3a2f250e5216c9dee07ccac4c3a91941dd336554",
+            "profileOver18": true
+        },
+        "t1_fbyupdy": {
+            "author": "Captain_Flashheart",
+            "authorId": "t2_g0avk",
+            "collapsed": false,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": null,
+            "created": 1577226832.0,
+            "depth": 0,
+            "deletedBy": null,
+            "distinguishType": null,
+            "editedAt": null,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_fbyupdy",
+            "isAdmin": false,
+            "isDeleted": false,
+            "isGildable": true,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "t1_fbxlhb2",
+                "type": "comment"
+            },
+            "parentId": null,
+            "permalink": "/r/datascience/comments/e8fown/official_2019_end_of_year_salary_sharing_thread/fbyupdy/",
+            "prev": {
+                "id": "t1_fc29qm7",
+                "type": "comment"
+            },
+            "postAuthor": null,
+            "postId": "t3_e8fown",
+            "postTitle": null,
+            "score": 3,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "Moved from a mid-size town to Amsterdam while continuing to work for the same company. Definitely feel like I undersold myself as my salary is on the low end."
+                                }
+                            ],
+                            "e": "par"
+                        },
+                        {
+                            "c": [],
+                            "e": "par"
+                        },
+                        {
+                            "c": [
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Title: ML engineer",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            6
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Tenure length: 7 months at current job and going strong",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            14
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Location: Amsterdam",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            9
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Salary: 40k",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            7
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Company/Industry: IT services / Consulting",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            17
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Education: BSc in CS, MSc in DS",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            10
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Prior Experience:",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            17
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        },
+                                        {
+                                            "c": [
+                                                {
+                                                    "c": [
+                                                        {
+                                                            "c": [
+                                                                {
+                                                                    "e": "text",
+                                                                    "t": "4 internships (= 2 years)"
+                                                                }
+                                                            ],
+                                                            "e": "par"
+                                                        }
+                                                    ],
+                                                    "e": "li"
+                                                },
+                                                {
+                                                    "c": [
+                                                        {
+                                                            "c": [
+                                                                {
+                                                                    "e": "text",
+                                                                    "t": "3 months of working for one of my profs"
+                                                                }
+                                                            ],
+                                                            "e": "par"
+                                                        }
+                                                    ],
+                                                    "e": "li"
+                                                },
+                                                {
+                                                    "c": [
+                                                        {
+                                                            "c": [
+                                                                {
+                                                                    "e": "text",
+                                                                    "t": "6 months as a developer at a research institute"
+                                                                }
+                                                            ],
+                                                            "e": "par"
+                                                        }
+                                                    ],
+                                                    "e": "li"
+                                                }
+                                            ],
+                                            "e": "list",
+                                            "o": false
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Relocation/Signing Bonus: np.nan",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            25
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Stock and/or recurring bonuses: 13th month + various small bonusses + pension plan + more or less unlimited WFH + access to a lot of training and certification materials.",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            31
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Total comp: 48k",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            11
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                }
+                            ],
+                            "e": "list",
+                            "o": false
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            },
+            "profileImage": "https://styles.redditmedia.com/t5_cgt5e/styles/profileIcon_snoo3282884c-5095-44e7-afb0-81eae9547699-headshot-f.png?width=256&height=256&crop=256:256,smart&s=f4601846817d4a16568130a055eea43a4292852c"
+        },
+        "t1_fbxlhb2": {
+            "author": "Urthor",
+            "authorId": "t2_c4ugb",
+            "collapsed": false,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": null,
+            "created": 1577192831.0,
+            "depth": 0,
+            "deletedBy": null,
+            "distinguishType": null,
+            "editedAt": 1577193227.0,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_fbxlhb2",
+            "isAdmin": false,
+            "isDeleted": false,
+            "isGildable": true,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "t1_fbzoywb",
+                "type": "comment"
+            },
+            "parentId": null,
+            "permalink": "/r/datascience/comments/e8fown/official_2019_end_of_year_salary_sharing_thread/fbxlhb2/",
+            "prev": {
+                "id": "t1_fbyupdy",
+                "type": "comment"
+            },
+            "postAuthor": null,
+            "postId": "t3_e8fown",
+            "postTitle": null,
+            "score": 3,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "Reading this, is the term/job title co-op widely used in the United States?  Quite strange to see it for the first time, never heard of it in my country."
+                                }
+                            ],
+                            "e": "par"
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            },
+            "profileImage": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png"
+        },
+        "t1_fbzoywb": {
+            "author": "ndjo",
+            "authorId": "t2_aiyaw",
+            "collapsed": false,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": null,
+            "created": 1577254569.0,
+            "depth": 1,
+            "deletedBy": null,
+            "distinguishType": null,
+            "editedAt": null,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_fbzoywb",
+            "isAdmin": false,
+            "isDeleted": false,
+            "isGildable": true,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "t1_fbheg3r",
+                "type": "comment"
+            },
+            "parentId": "t1_fbxlhb2",
+            "permalink": "/r/datascience/comments/e8fown/official_2019_end_of_year_salary_sharing_thread/fbzoywb/",
+            "prev": {
+                "id": "t1_fbxlhb2",
+                "type": "comment"
+            },
+            "postAuthor": null,
+            "postId": "t3_e8fown",
+            "postTitle": null,
+            "score": 1,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "Enough universities offer it to the extent that many of those who attend universities who don't offer it know about co-op haha."
+                                }
+                            ],
+                            "e": "par"
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            },
+            "profileImage": "https://styles.redditmedia.com/t5_en1o8/styles/profileIcon_snoo201cd0f5-6949-4998-a675-a988385bc9dc-headshot-f.png?width=256&height=256&crop=256:256,smart&s=3f18160156c09bbc9f7ba8c6ecae53f5c1b87082"
+        },
+        "t1_fbheg3r": {
+            "author": "[deleted]",
+            "authorId": null,
+            "collapsed": true,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": "DELETED",
+            "created": 1576871715.0,
+            "depth": 0,
+            "deletedBy": "user",
+            "distinguishType": null,
+            "editedAt": 1621561014.0,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_fbheg3r",
+            "isAdmin": false,
+            "isDeleted": true,
+            "isGildable": true,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "t1_fc1sdqr",
+                "type": "comment"
+            },
+            "parentId": null,
+            "permalink": "/r/datascience/comments/e8fown/official_2019_end_of_year_salary_sharing_thread/fbheg3r/",
+            "prev": {
+                "id": "t1_fbzoywb",
+                "type": "comment"
+            },
+            "postAuthor": null,
+            "postId": "t3_e8fown",
+            "postTitle": null,
+            "score": 6,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "[deleted]"
+                                }
+                            ],
+                            "e": "par"
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            }
+        },
+        "t1_fc1sdqr": {
+            "author": "culturedindividual",
+            "authorId": "t2_juesl",
+            "collapsed": false,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": null,
+            "created": 1577328216.0,
+            "depth": 1,
+            "deletedBy": null,
+            "distinguishType": null,
+            "editedAt": null,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_fc1sdqr",
+            "isAdmin": false,
+            "isDeleted": false,
+            "isGildable": true,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": {
+                "id": "t1_fbi7u7c",
+                "type": "comment"
+            },
+            "parentId": "t1_fbheg3r",
+            "permalink": "/r/datascience/comments/e8fown/official_2019_end_of_year_salary_sharing_thread/fc1sdqr/",
+            "prev": {
+                "id": "t1_fbheg3r",
+                "type": "comment"
+            },
+            "postAuthor": null,
+            "postId": "t3_e8fown",
+            "postTitle": null,
+            "score": 3,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "Elliot Alderson?"
+                                }
+                            ],
+                            "e": "par"
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            },
+            "profileImage": "https://styles.redditmedia.com/t5_c4vem/styles/profileIcon_snoo224d3634-0eec-4f2d-9938-b01e799cd673-headshot.png?width=256&height=256&crop=256:256,smart&s=90520b9b2d1ac6769ba6ffbe42322dde2f45ef4e"
+        },
+        "t1_fbi7u7c": {
+            "author": "[deleted]",
+            "authorId": null,
+            "collapsed": false,
+            "collapsedReason": null,
+            "collapsedBecauseCrowdControl": null,
+            "collapsedReasonCode": null,
+            "created": 1576893268.0,
+            "depth": 1,
+            "deletedBy": null,
+            "distinguishType": null,
+            "editedAt": null,
+            "gildings": null,
+            "goldCount": 0,
+            "id": "t1_fbi7u7c",
+            "isAdmin": false,
+            "isDeleted": false,
+            "isGildable": false,
+            "isLocked": false,
+            "isMod": false,
+            "isOp": false,
+            "isSaved": false,
+            "isStickied": false,
+            "isScoreHidden": false,
+            "next": null,
+            "parentId": "t1_fbheg3r",
+            "permalink": "/r/datascience/comments/e8fown/official_2019_end_of_year_salary_sharing_thread/fbi7u7c/",
+            "prev": {
+                "id": "t1_fc1sdqr",
+                "type": "comment"
+            },
+            "postAuthor": null,
+            "postId": "t3_e8fown",
+            "postTitle": null,
+            "score": 12,
+            "sendReplies": true,
+            "subredditId": "t5_2sptq",
+            "voteState": 0,
+            "media": {
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "FBI Surveillance Van 7 has entered the chat*",
+                                    "f": [
+                                        [
+                                            2,
+                                            0,
+                                            44
+                                        ]
+                                    ]
+                                }
+                            ],
+                            "e": "par"
+                        }
+                    ]
+                },
+                "type": "rtjson",
+                "rteMode": "richtext"
+            }
+        }
+    },
+    "features": {
+        "mod_service_mute_writes": true,
+        "promoted_trend_blanks": true,
+        "show_amp_link": true,
+        "is_email_permission_required": true,
+        "mod_awards": true,
+        "mweb_xpromo_revamp_v3": {
+            "owner": "growth",
+            "variant": "control_1",
+            "experiment_id": 480
+        },
+        "mweb_xpromo_revamp_v2": {
+            "owner": "growth",
+            "variant": "treatment_1",
+            "experiment_id": 457
+        },
+        "awards_on_streams": true,
+        "mweb_xpromo_modal_listing_click_daily_dismissible_ios": true,
+        "chat_subreddit": true,
+        "cookie_consent_banner": true,
+        "modlog_copyright_removal": true,
+        "do_not_track": true,
+        "mod_service_mute_reads": true,
+        "chat_user_settings": true,
+        "use_pref_account_deployment": true,
+        "mweb_xpromo_interstitial_comments_ios": true,
+        "noreferrer_to_noopener": true,
+        "premium_subscriptions_table": true,
+        "mweb_xpromo_interstitial_comments_android": true,
+        "crowd_control_for_post": true,
+        "mweb_nsfw_xpromo": {
+            "owner": "growth",
+            "variant": "treatment_1",
+            "experiment_id": 361
+        },
+        "chat_group_rollout": true,
+        "resized_styles_images": true,
+        "spez_modal": true,
+        "mweb_xpromo_modal_listing_click_daily_dismissible_android": true,
+        "expensive_coins_package": true
+    },
+    "moreComments": {},
+    "postFlair": {
+        "t5_2sptq": {
+            "displaySettings": {
+                "isEnabled": true,
+                "position": "left"
+            },
+            "permissions": {
+                "canAssignOwn": true
+            },
+            "templates": {
+                "4fad7108-d77d-11e7-b0c6-0ee69f155af2": {
+                    "id": "4fad7108-d77d-11e7-b0c6-0ee69f155af2",
+                    "text": "Discussion",
+                    "textEditable": false,
+                    "richtext": [],
+                    "type": "text",
+                    "textColor": "dark",
+                    "backgroundColor": "",
+                    "modOnly": false,
+                    "cssClass": "discussion",
+                    "maxEmojis": 10,
+                    "allowableContent": "all"
+                },
+                "71803d7a-469d-11e9-890b-0e5d959976c8": {
+                    "id": "71803d7a-469d-11e9-890b-0e5d959976c8",
+                    "text": "Job Search",
+                    "textEditable": false,
+                    "richtext": [],
+                    "type": "text",
+                    "textColor": "dark",
+                    "backgroundColor": "#edeff1",
+                    "modOnly": false,
+                    "cssClass": "",
+                    "maxEmojis": 10,
+                    "allowableContent": "all"
+                },
+                "937a6f50-d780-11e7-826d-0ed1beddcc82": {
+                    "id": "937a6f50-d780-11e7-826d-0ed1beddcc82",
+                    "text": "Projects",
+                    "textEditable": false,
+                    "richtext": [],
+                    "type": "text",
+                    "textColor": "dark",
+                    "backgroundColor": "",
+                    "modOnly": false,
+                    "cssClass": "projects",
+                    "maxEmojis": 10,
+                    "allowableContent": "all"
+                },
+                "a6ee6fa0-d780-11e7-b6d0-0e0bd8823a7e": {
+                    "id": "a6ee6fa0-d780-11e7-b6d0-0e0bd8823a7e",
+                    "text": "Career",
+                    "textEditable": false,
+                    "richtext": [],
+                    "type": "text",
+                    "textColor": "dark",
+                    "backgroundColor": "",
+                    "modOnly": false,
+                    "cssClass": "career",
+                    "maxEmojis": 10,
+                    "allowableContent": "all"
+                },
+                "99f9652a-d780-11e7-b558-0e52cdd59ace": {
+                    "id": "99f9652a-d780-11e7-b558-0e52cdd59ace",
+                    "text": "Education",
+                    "textEditable": false,
+                    "richtext": [],
+                    "type": "text",
+                    "textColor": "dark",
+                    "backgroundColor": "",
+                    "modOnly": false,
+                    "cssClass": "education",
+                    "maxEmojis": 10,
+                    "allowableContent": "all"
+                },
+                "8addf236-d780-11e7-932d-0e90af9dfe6e": {
+                    "id": "8addf236-d780-11e7-932d-0e90af9dfe6e",
+                    "text": "Networking",
+                    "textEditable": false,
+                    "richtext": [],
+                    "type": "text",
+                    "textColor": "dark",
+                    "backgroundColor": "",
+                    "modOnly": false,
+                    "cssClass": "network",
+                    "maxEmojis": 10,
+                    "allowableContent": "all"
+                },
+                "aaf5d8cc-d780-11e7-a4a5-0e68d01eab56": {
+                    "id": "aaf5d8cc-d780-11e7-a4a5-0e68d01eab56",
+                    "text": "Tooling",
+                    "textEditable": false,
+                    "richtext": [],
+                    "type": "text",
+                    "textColor": "dark",
+                    "backgroundColor": "",
+                    "modOnly": false,
+                    "cssClass": "tooling",
+                    "maxEmojis": 10,
+                    "allowableContent": "all"
+                },
+                "481ee318-d77d-11e7-a4a3-0e8624d7129a": {
+                    "id": "481ee318-d77d-11e7-a4a3-0e8624d7129a",
+                    "text": "Meta",
+                    "textEditable": false,
+                    "richtext": [],
+                    "type": "text",
+                    "textColor": "dark",
+                    "backgroundColor": "",
+                    "modOnly": false,
+                    "cssClass": "meta",
+                    "maxEmojis": 10,
+                    "allowableContent": "all"
+                },
+                "b026063c-d780-11e7-aba9-0e030591a4b4": {
+                    "id": "b026063c-d780-11e7-aba9-0e030591a4b4",
+                    "text": "Fun/Trivia",
+                    "textEditable": false,
+                    "richtext": [],
+                    "type": "text",
+                    "textColor": "dark",
+                    "backgroundColor": "",
+                    "modOnly": false,
+                    "cssClass": "fun",
+                    "maxEmojis": 10,
+                    "allowableContent": "all"
+                }
+            },
+            "templateIds": [
+                "4fad7108-d77d-11e7-b0c6-0ee69f155af2",
+                "71803d7a-469d-11e9-890b-0e5d959976c8",
+                "937a6f50-d780-11e7-826d-0ed1beddcc82",
+                "a6ee6fa0-d780-11e7-b6d0-0e0bd8823a7e",
+                "99f9652a-d780-11e7-b558-0e52cdd59ace",
+                "8addf236-d780-11e7-932d-0e90af9dfe6e",
+                "aaf5d8cc-d780-11e7-a4a5-0e68d01eab56",
+                "481ee318-d77d-11e7-a4a3-0e8624d7129a",
+                "b026063c-d780-11e7-aba9-0e030591a4b4"
+            ]
+        }
+    },
+    "postMeta": null,
+    "posts": {
+        "t3_e8fown": {
+            "id": "t3_e8fown",
+            "numComments": 474,
+            "created": 1575924084000,
+            "score": 219,
+            "distinguishType": "moderator",
+            "isLocked": false,
+            "isStickied": false,
+            "thumbnail": {
+                "url": "self",
+                "width": null,
+                "height": null
+            },
+            "title": "[Official] 2019 End of Year Salary Sharing thread",
+            "author": "Omega037",
+            "authorId": "t2_6kl7i",
+            "authorIsBlocked": false,
+            "domain": "self.datascience",
+            "postId": "t3_e8fown",
+            "upvoteRatio": 0.97,
+            "numDuplicates": 0,
+            "discussionType": null,
+            "viewCount": 0,
+            "goldCount": 0,
+            "isArchived": false,
+            "contestMode": false,
+            "gildings": null,
+            "postCategories": null,
+            "suggestedSort": "new",
+            "belongsTo": {
+                "id": "t5_2sptq",
+                "type": "subreddit"
+            },
+            "flair": [],
+            "hidden": false,
+            "saved": false,
+            "isGildable": true,
+            "isMediaOnly": false,
+            "isSponsored": false,
+            "isNSFW": false,
+            "isMeta": false,
+            "isSpoiler": false,
+            "isBlank": false,
+            "sendReplies": false,
+            "voteState": 0,
+            "permalink": "https://www.reddit.com/r/datascience/comments/e8fown/official_2019_end_of_year_salary_sharing_thread/",
+            "events": [],
+            "eventsOnRender": [],
+            "callToAction": null,
+            "domainOverride": null,
+            "impressionId": null,
+            "isSurveyAd": null,
+            "impressionIdStr": null,
+            "isCreatedFromAdsUi": false,
+            "media": {
+                "obfuscated": null,
+                "type": "rtjson",
+                "richtextContent": {
+                    "document": [
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "MODNOTE: Borrowed this from ",
+                                    "f": [
+                                        [
+                                            1,
+                                            0,
+                                            7
+                                        ]
+                                    ]
+                                },
+                                {
+                                    "e": "r/",
+                                    "t": "cscareerquestions",
+                                    "l": false
+                                },
+                                {
+                                    "e": "text",
+                                    "t": ".  Some people like these kinds of threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!"
+                                }
+                            ],
+                            "e": "par"
+                        },
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "This is the first official thread for sharing your current salaries (or recent offers)."
+                                }
+                            ],
+                            "e": "par"
+                        },
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "Please only post salaries/offers if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also generalize some of your answers (e.g. \"Large biotech company\"), or add fields if you feel something is particularly relevant."
+                                }
+                            ],
+                            "e": "par"
+                        },
+                        {
+                            "c": [
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Title:",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            6
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Tenure length:",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            14
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Location:",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            9
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Salary:",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            7
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Company/Industry:",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            17
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Education:",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            10
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Prior Experience:",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            17
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        },
+                                        {
+                                            "c": [
+                                                {
+                                                    "c": [
+                                                        {
+                                                            "c": [
+                                                                {
+                                                                    "e": "text",
+                                                                    "t": "$Internship",
+                                                                    "f": [
+                                                                        [
+                                                                            1,
+                                                                            0,
+                                                                            11
+                                                                        ]
+                                                                    ]
+                                                                }
+                                                            ],
+                                                            "e": "par"
+                                                        }
+                                                    ],
+                                                    "e": "li"
+                                                },
+                                                {
+                                                    "c": [
+                                                        {
+                                                            "c": [
+                                                                {
+                                                                    "e": "text",
+                                                                    "t": "$Coop",
+                                                                    "f": [
+                                                                        [
+                                                                            1,
+                                                                            0,
+                                                                            5
+                                                                        ]
+                                                                    ]
+                                                                }
+                                                            ],
+                                                            "e": "par"
+                                                        }
+                                                    ],
+                                                    "e": "li"
+                                                }
+                                            ],
+                                            "e": "list",
+                                            "o": false
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Relocation/Signing Bonus:",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            25
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Stock and/or recurring bonuses:",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            31
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                },
+                                {
+                                    "c": [
+                                        {
+                                            "c": [
+                                                {
+                                                    "e": "text",
+                                                    "t": "Total comp:",
+                                                    "f": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            11
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            "e": "par"
+                                        }
+                                    ],
+                                    "e": "li"
+                                }
+                            ],
+                            "e": "list",
+                            "o": false
+                        },
+                        {
+                            "c": [
+                                {
+                                    "e": "text",
+                                    "t": "Note that while the primary purpose of these threads is obviously to share compensation info, discussion is also encouraged."
+                                }
+                            ],
+                            "e": "par"
+                        }
+                    ]
+                },
+                "mediaMetadata": null,
+                "rteMode": "richtext"
+            },
+            "crosspostRootId": null,
+            "crosspostParentId": null,
+            "numCrossposts": 0,
+            "isCrosspostable": true,
+            "liveCommentsWebsocket": "wss://ws-07381166f904475a7.wss.redditmedia.com/link/e8fown?m=AQAABOPWYjaOPkyjtvwHt_vPV7GbYtWXubHTOVGb-m7Np7ujtqpz",
+            "source": null,
+            "isOriginalContent": false,
+            "contentCategories": null,
+            "isScoreHidden": false
+        }
+    },
+    "profiles": {},
+    "subreddits": {
+        "t5_2sptq": {
+            "displayText": "r/datascience",
+            "id": "t5_2sptq",
+            "isQuarantined": false,
+            "isNSFW": false,
+            "name": "datascience",
+            "whitelistStatus": "all_ads",
+            "wls": 6,
+            "subscribers": 789923,
+            "url": "/r/datascience/",
+            "type": "public",
+            "icon": {
+                "url": "",
+                "width": null,
+                "height": null
+            },
+            "acceptFollowers": true,
+            "title": "Data Science",
+            "communityIcon": "https://styles.redditmedia.com/t5_2sptq/styles/communityIcon_fdj8zurrifa71.png?width=256&s=a9a418840926af79a511991bce743bc67e704730",
+            "primaryColor": "",
+            "allowChatPostCreation": false,
+            "isChatPostFeatureEnabled": false,
+            "freeFormReports": true,
+            "allowPredictions": true,
+            "allowPredictionsTournament": true,
+            "allowTalks": true
+        }
+    },
+    "preferences": null,
+    "continueThreads": {},
+    "subredditAboutInfo": {
+        "t5_2sptq": {
+            "accountsActive": 686,
+            "advertiserCategory": "",
+            "usingNewModmail": true,
+            "publicDescription": "A place for data science practitioners and professionals to discuss and debate data science career questions.",
+            "showMedia": true,
+            "subscribers": 789923,
+            "userIsSubscriber": true,
+            "userIsContributor": false,
+            "restrictPosting": true,
+            "restrictCommenting": false,
+            "disableContributorRequests": false,
+            "submitLinkLabel": "",
+            "submitTextLabel": "",
+            "created": 1312631022.0,
+            "acceptFollowers": true,
+            "userIsBanned": false,
+            "emojisEnabled": false,
+            "contentCategory": "",
+            "allOriginalContent": false,
+            "originalContentTagEnabled": true,
+            "hasExternalAccount": false,
+            "isCrosspostableSubreddit": true,
+            "shouldArchivePosts": false,
+            "allowedPostTypes": {
+                "links": true,
+                "images": true,
+                "videos": false,
+                "text": true,
+                "spoilers": true,
+                "polls": true,
+                "galleries": true,
+                "talks": true
+            }
+        }
+    },
+    "structuredStyles": null,
+    "userFlair": {
+        "t5_2sptq": {
+            "displaySettings": {
+                "isUserEnabled": true,
+                "isEnabled": true,
+                "position": "right"
+            },
+            "permissions": {
+                "canUserChange": false,
+                "canAssignOwn": false
+            },
+            "applied": null,
+            "templates": {},
+            "templateIds": []
+        }
+    },
+    "subredditPermissions": null
+}
