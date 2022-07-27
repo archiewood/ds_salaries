@@ -3,6 +3,7 @@
     "features": [
         {
             "type": "Feature",
+            "id": "West coast",
             "properties": {
                 "id": "05",
                 "name": "West coast"
@@ -719,6 +720,7 @@
         },
         {
             "type": "Feature",
+            "id": "Southwest",
             "properties": {
                 "id": "04",
                 "name": "Southwest"
@@ -1337,6 +1339,7 @@
         },
         {
             "type": "Feature",
+            "id": "Southeast",
             "properties": {
                 "id": "02",
                 "name": "Southeast"
@@ -2613,6 +2616,7 @@
         },
         {
             "type": "Feature",
+            "id": "Midwest",
             "properties": {
                 "id": "03",
                 "name": "Midwest"
@@ -3897,6 +3901,7 @@
         },
         {
             "type": "Feature",
+            "id": "Northeast",
             "properties": {
                 "id": "01",
                 "name": "Northeast"
